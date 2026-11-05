@@ -89,7 +89,7 @@ These are real screenshots of the bundled native files. Every case is editable a
 <br /><strong>Investor presentation · Slides</strong><br />Five slides with editable SVG-authored elements, charts, and decision gates.<br /><a href="examples/investor-presentation.univer.json">Explore snapshot →</a>
 </td>
 <td width="50%" valign="top">
-<a href="docs/images/showcase/decision-map.webp"><img src="docs/images/showcase/decision-map.webp" alt="Financial decision canvas connecting source evidence, three IPO scenarios, diligence gates and return loops" width="480" /></a>
+<a href="docs/images/showcase/decision-map.png"><img src="docs/images/showcase/decision-map.png" alt="Financial decision canvas connecting source evidence, three IPO scenarios, diligence gates and return loops" width="480" /></a>
 <br /><strong>Financial decision map · Board</strong><br />Evidence cards, scenario comparisons, bound connectors, and feedback loops.<br /><a href="examples/financial-decision-map.univer.json">Explore snapshot →</a>
 </td>
 </tr>
