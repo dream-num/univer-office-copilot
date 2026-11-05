@@ -21,7 +21,7 @@ Chat with spreadsheets, docs, slides, relational tables, and canvases — in one
 
 [![Univer Office Copilot explaining an editable financial workbook in the conversation panel](docs/images/copilot-overview.webp)](docs/images/copilot-overview.webp)
 
-**A runnable reference app for developers building Office agents.** Start with a workspace, five real editor surfaces, a conversation assistant, and seven editable examples. Connect your model, then adapt the tools, skills, and interface to your product.
+**A runnable reference app for developers building Office agents.** Start with a workspace, five real editor surfaces, a conversation assistant, and six editable examples. Connect your model, then adapt the tools, skills, and interface to your product.
 
 Copilot reads the current file, runs backend editing tools, and checks the result. Confirmed edits appear through the same collaboration channel used by people. **Ask** explains; **Edit** changes the file directly. Native history lets users inspect changes and restore earlier versions.
 
@@ -50,7 +50,7 @@ pnpm install --frozen-lockfile
 pnpm dev
 ```
 
-Open **http://127.0.0.1:5173**. Your local demo opens a financial workbook with **seven private, editable example files** ready to explore. No AI key, Docker, or external database is needed to browse them.
+Open **http://127.0.0.1:5173**. Your local demo opens a financial workbook with **six private, editable example files** ready to explore. No AI key, Docker, or external database is needed to browse them.
 
 To use Copilot, open the model menu in chat, choose **Add model** or **Manage models**, and enter your provider, model ID, and key. Choose **Ask** for a walkthrough or **Edit** to make changes. AI layout and rendered checks also need a local [Chrome, Chromium, or Edge installation](docs/local-development.md#render-browser).
 
@@ -58,7 +58,7 @@ To use Copilot, open the model menu in chat, choose **Add model** or **Manage mo
 
 ## Included examples
 
-**Five Office surfaces. Two document modes. Seven starting points.**
+**Five Office surfaces. Two document modes. Six starting points.**
 
 These are real screenshots of the bundled native files. Every case is editable after startup; click a preview to inspect the full image, or follow its snapshot link.
 
@@ -93,16 +93,9 @@ These are real screenshots of the bundled native files. Every case is editable a
 <br /><strong>Financial decision map · Board</strong><br />Evidence cards, scenario comparisons, bound connectors, and feedback loops.<br /><a href="examples/financial-decision-map.univer.json">Explore snapshot →</a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="docs/images/showcase/sales-budget.webp"><img src="docs/images/showcase/sales-budget.webp" alt="Sales budget spreadsheet with monthly budget and actual values, formula totals, and two native comparison charts" width="480" /></a>
-<br /><strong>Sales budget · Sheets</strong><br />Monthly budgets, actuals, cumulative trends, and native charts. This earlier example retains Chinese worksheet content.<br /><a href="examples/sales.univer.json">Explore snapshot →</a>
-</td>
-<td width="50%" valign="top">
-<br /><strong>Make the next example yours.</strong><br /><br />Start from these files or create a blank Sheet, Doc, Slide, Base, or Board.<br /><br />Add your own product skills, tools, data, and model configuration.<br /><br /><a href="docs/extending.md">Build on the reference app →</a><br /><a href="examples/README.md">How the snapshots work →</a>
-</td>
-</tr>
 </table>
+
+**Make the next example yours.** Start from these files or create a blank Sheet, Doc, Slide, Base, or Board. [Extend the app →](docs/extending.md) · [How the snapshots work →](examples/README.md)
 
 New demo accounts receive independent copies with fresh identities and revision-one history. Existing files are never reset. The snapshots include file contents and applicable document authoring maps; **no conversations, accounts, attachments, share links, model profiles, or credentials are bundled**. The hero shows a separate demonstration conversation. Set `DEMO_EXAMPLES=false` to start with a blank spreadsheet.
 

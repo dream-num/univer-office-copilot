@@ -3,7 +3,6 @@ import { resolve } from 'node:path';
 import type { FilesService } from '../modules/files/index.ts';
 
 export const demoExamples = [
-  { filename: 'sales.univer.json', emoji: '🚀' },
   { filename: 'financial-analysis.univer.json' },
   { filename: 'investor-presentation.univer.json' },
   { filename: 'financial-due-diligence.univer.json' },
@@ -16,7 +15,6 @@ export const demoExamples = [
 export async function seedDemoExamples(files: FilesService, actorId: string) {
   for (const entry of demoExamples) {
     const bytes = await readFile(resolve('examples', entry.filename));
-    const file = await files.importFile(actorId, bytes, entry.filename);
-    if ('emoji' in entry) files.update(file.id, actorId, { emoji: entry.emoji });
+    await files.importFile(actorId, bytes, entry.filename);
   }
 }
