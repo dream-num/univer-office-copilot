@@ -1,0 +1,39 @@
+{
+  "name": "univer-office-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "type": "module",
+  "packageManager": "pnpm@10.33.4",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node --env-file-if-exists=.env --env-file-if-exists=.env.local server/dist/main.js",
+    "typecheck": "tsc --noEmit",
+    "check:architecture": "node scripts/check-architecture.mjs",
+    "test": "vite build --config server/render.vite.config.ts && vitest run",
+    "check": "pnpm typecheck && pnpm check:architecture && pnpm test",
+    "test:e2e": "playwright test",
+    "test:production": "node scripts/smoke-production.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/vite": "4.3.4",
+    "@types/express": "^5.0.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "6.2.1",
+    "prettier": "3.6.2",
+    "tailwindcss": "4.3.4",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vite": "8.3.5",
+    "vitest": "5.1.0"
+  }
+}

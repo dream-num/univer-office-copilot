@@ -1,0 +1,3839 @@
+{
+  "format": "univer-office-copilot",
+  "version": 1,
+  "type": "sheet",
+  "name": "Sales",
+  "data": {
+    "id": "example-sales",
+    "rev": 1,
+    "name": "Untitled spreadsheet",
+    "sheetOrder": ["sheet-1"],
+    "appVersion": "1.3.1",
+    "locale": "enUS",
+    "sheets": {
+      "sheet-1": {
+        "id": "sheet-1",
+        "name": "销售预算",
+        "rowCount": 1000,
+        "columnCount": 26,
+        "columnData": {
+          "0": {
+            "w": 118
+          },
+          "1": {
+            "w": 104
+          },
+          "2": {
+            "w": 104
+          },
+          "3": {
+            "w": 104
+          },
+          "4": {
+            "w": 92
+          },
+          "5": {
+            "w": 112
+          },
+          "6": {
+            "w": 112
+          },
+          "7": {
+            "w": 104
+          }
+        },
+        "columnHeader": {
+          "height": 20,
+          "hidden": 0
+        },
+        "defaultColumnWidth": 88,
+        "defaultRowHeight": 24,
+        "freeze": {
+          "startColumn": 0,
+          "startRow": 10,
+          "xSplit": 0,
+          "ySplit": 10
+        },
+        "hidden": 0,
+        "mergeData": [
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 0,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 0,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 1,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 1,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 3,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 3,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 1,
+            "endRow": 4,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 4,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 3,
+            "endRow": 4,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 2,
+            "startRow": 4,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 5,
+            "endRow": 4,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 4,
+            "startRow": 4,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 4,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 6,
+            "startRow": 4,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 1,
+            "endRow": 5,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 5,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 3,
+            "endRow": 5,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 2,
+            "startRow": 5,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 5,
+            "endRow": 5,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 4,
+            "startRow": 5,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 5,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 6,
+            "startRow": 5,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 6,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 6,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 8,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 8,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 18,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 18,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 24,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 24,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 41,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 41,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 42,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 42,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 43,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 43,
+            "unitId": "example-sales"
+          },
+          {
+            "endAbsoluteRefType": 0,
+            "endColumn": 7,
+            "endRow": 44,
+            "rangeType": 0,
+            "sheetId": "sheet-1",
+            "startAbsoluteRefType": 0,
+            "startColumn": 0,
+            "startRow": 44,
+            "unitId": "example-sales"
+          }
+        ],
+        "rightToLeft": 0,
+        "rowData": {
+          "0": {
+            "h": 44,
+            "ia": 0
+          },
+          "1": {
+            "ia": 1
+          },
+          "2": {
+            "h": 28,
+            "ia": 1
+          },
+          "3": {
+            "h": 26,
+            "ia": 0
+          },
+          "4": {
+            "ia": 1
+          },
+          "5": {
+            "h": 34,
+            "ia": 0
+          },
+          "6": {
+            "h": 28,
+            "ia": 0
+          },
+          "7": {
+            "ia": 1
+          },
+          "8": {
+            "h": 26,
+            "ia": 0
+          },
+          "9": {
+            "h": 32,
+            "ia": 0
+          },
+          "10": {
+            "ia": 1
+          },
+          "11": {
+            "ia": 1
+          },
+          "12": {
+            "ia": 1
+          },
+          "13": {
+            "ia": 1
+          },
+          "14": {
+            "ia": 1
+          },
+          "15": {
+            "ia": 1
+          },
+          "16": {
+            "h": 26,
+            "ia": 0
+          },
+          "17": {
+            "ia": 1
+          },
+          "18": {
+            "h": 26,
+            "ia": 0
+          },
+          "19": {
+            "h": 26,
+            "ia": 0
+          },
+          "20": {
+            "ia": 1
+          },
+          "21": {
+            "ia": 1
+          },
+          "22": {
+            "h": 26,
+            "ia": 0
+          },
+          "23": {
+            "ia": 1
+          },
+          "24": {
+            "h": 26,
+            "ia": 0
+          },
+          "25": {
+            "ia": 1
+          },
+          "26": {
+            "ia": 1
+          },
+          "27": {
+            "ia": 1
+          },
+          "28": {
+            "ia": 1
+          },
+          "29": {
+            "ia": 1
+          },
+          "30": {
+            "ia": 1
+          },
+          "31": {
+            "ia": 1
+          },
+          "32": {
+            "ia": 1
+          },
+          "33": {
+            "ia": 1
+          },
+          "34": {
+            "ia": 1
+          },
+          "35": {
+            "ia": 1
+          },
+          "36": {
+            "ia": 1
+          },
+          "37": {
+            "ia": 1
+          },
+          "38": {
+            "ia": 1
+          },
+          "39": {
+            "ia": 1
+          },
+          "40": {
+            "ia": 1
+          },
+          "41": {
+            "h": 26,
+            "ia": 0
+          },
+          "42": {
+            "ia": 1
+          },
+          "43": {
+            "ia": 1
+          },
+          "44": {
+            "ia": 1
+          }
+        },
+        "rowHeader": {
+          "hidden": 0,
+          "width": 46
+        },
+        "scrollLeft": 0,
+        "scrollTop": 0,
+        "showGridlines": 1,
+        "tabColor": "",
+        "zoomRatio": 1,
+        "cellData": {
+          "0": {
+            "0": {
+              "s": "YM1Vql",
+              "t": 1,
+              "v": "2026 年销售预算执行分析报告"
+            },
+            "1": {
+              "s": "YM1Vql"
+            },
+            "2": {
+              "s": "YM1Vql"
+            },
+            "3": {
+              "s": "YM1Vql"
+            },
+            "4": {
+              "s": "YM1Vql"
+            },
+            "5": {
+              "s": "YM1Vql"
+            },
+            "6": {
+              "s": "YM1Vql"
+            },
+            "7": {
+              "s": "YM1Vql"
+            }
+          },
+          "1": {
+            "0": {
+              "s": "yszZx3",
+              "t": 1,
+              "v": "单位：万元　·　统计期间：2026 年 1–6 月　·　数据性质：示例数据"
+            },
+            "1": {
+              "s": "yszZx3"
+            },
+            "2": {
+              "s": "yszZx3"
+            },
+            "3": {
+              "s": "yszZx3"
+            },
+            "4": {
+              "s": "yszZx3"
+            },
+            "5": {
+              "s": "yszZx3"
+            },
+            "6": {
+              "s": "yszZx3"
+            },
+            "7": {
+              "s": "yszZx3"
+            }
+          },
+          "3": {
+            "0": {
+              "s": "jJuA7_",
+              "t": 1,
+              "v": "一、核心指标"
+            },
+            "1": {
+              "s": "jJuA7_"
+            },
+            "2": {
+              "s": "jJuA7_"
+            },
+            "3": {
+              "s": "jJuA7_"
+            },
+            "4": {
+              "s": "jJuA7_"
+            },
+            "5": {
+              "s": "jJuA7_"
+            },
+            "6": {
+              "s": "jJuA7_"
+            },
+            "7": {
+              "s": "jJuA7_"
+            }
+          },
+          "4": {
+            "0": {
+              "s": "eWytRV",
+              "t": 1,
+              "v": "预算合计（万元）"
+            },
+            "1": {
+              "s": "MqxGma"
+            },
+            "2": {
+              "s": "eWytRV",
+              "t": 1,
+              "v": "实际合计（万元）"
+            },
+            "3": {
+              "s": "MqxGma"
+            },
+            "4": {
+              "s": "eWytRV",
+              "t": 1,
+              "v": "总达成率"
+            },
+            "5": {
+              "s": "MqxGma"
+            },
+            "6": {
+              "s": "eWytRV",
+              "t": 1,
+              "v": "预算差异（万元）"
+            },
+            "7": {
+              "s": "Jt5ZBr"
+            }
+          },
+          "5": {
+            "0": {
+              "f": "=B17",
+              "s": "T9wk0Y",
+              "t": 2,
+              "v": 90
+            },
+            "1": {
+              "s": "mnVSnW"
+            },
+            "2": {
+              "f": "=C17",
+              "s": "T9wk0Y",
+              "t": 2,
+              "v": 93
+            },
+            "3": {
+              "s": "mnVSnW"
+            },
+            "4": {
+              "f": "=C17/B17",
+              "s": "_wkaSi",
+              "t": 2,
+              "v": 1.0333333333333334
+            },
+            "5": {
+              "s": "mnVSnW"
+            },
+            "6": {
+              "f": "=C17-B17",
+              "s": "bawrL3",
+              "t": 2,
+              "v": 3
+            },
+            "7": {
+              "s": "xfVvdW"
+            }
+          },
+          "6": {
+            "0": {
+              "f": "=\"结论：1–6 月累计实际 \"&TEXT(C6,\"#,##0.00\")&\" 万元，完成预算 \"&TEXT(A6,\"#,##0.00\")&\" 万元的 \"&TEXT(E6,\"0.0%\")&\"；差异 \"&TEXT(G6,\"+0.00;-0.00\")&\" 万元。\"",
+              "s": "AfjXWS",
+              "t": 1,
+              "v": "结论：1–6 月累计实际 93.00 万元，完成预算 90.00 万元的 103.3%；差异 +3.00 万元。"
+            },
+            "1": {
+              "s": "FuEpvM"
+            },
+            "2": {
+              "s": "FuEpvM"
+            },
+            "3": {
+              "s": "FuEpvM"
+            },
+            "4": {
+              "s": "FuEpvM"
+            },
+            "5": {
+              "s": "FuEpvM"
+            },
+            "6": {
+              "s": "FuEpvM"
+            },
+            "7": {
+              "s": "FuEpvM"
+            }
+          },
+          "8": {
+            "0": {
+              "s": "jJuA7_",
+              "t": 1,
+              "v": "二、月度预算执行明细"
+            },
+            "1": {
+              "s": "jJuA7_"
+            },
+            "2": {
+              "s": "jJuA7_"
+            },
+            "3": {
+              "s": "jJuA7_"
+            },
+            "4": {
+              "s": "jJuA7_"
+            },
+            "5": {
+              "s": "jJuA7_"
+            },
+            "6": {
+              "s": "jJuA7_"
+            },
+            "7": {
+              "s": "jJuA7_"
+            }
+          },
+          "9": {
+            "0": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "月份"
+            },
+            "1": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "预算（万元）"
+            },
+            "2": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "实际（万元）"
+            },
+            "3": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "差异（万元）"
+            },
+            "4": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "达成率"
+            },
+            "5": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "累计预算（万元）"
+            },
+            "6": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "累计实际（万元）"
+            },
+            "7": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "累计达成率"
+            }
+          },
+          "10": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "1月"
+            },
+            "1": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 10
+            },
+            "2": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 11
+            },
+            "3": {
+              "f": "=C11-B11",
+              "s": "slmasf",
+              "t": 2,
+              "v": 1
+            },
+            "4": {
+              "f": "=C11/B11",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.1
+            },
+            "5": {
+              "f": "=SUM($B$11:B11)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 10
+            },
+            "6": {
+              "f": "=SUM($C$11:C11)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 11
+            },
+            "7": {
+              "f": "=G11/F11",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.1
+            }
+          },
+          "11": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "2月"
+            },
+            "1": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 12
+            },
+            "2": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 11
+            },
+            "3": {
+              "f": "=C12-B12",
+              "s": "slmasf",
+              "t": 2,
+              "v": -1
+            },
+            "4": {
+              "f": "=C12/B12",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 0.9166666666666666
+            },
+            "5": {
+              "f": "=SUM($B$11:B12)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 22
+            },
+            "6": {
+              "f": "=SUM($C$11:C12)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 22
+            },
+            "7": {
+              "f": "=G12/F12",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1
+            }
+          },
+          "12": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "3月"
+            },
+            "1": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 14
+            },
+            "2": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 15
+            },
+            "3": {
+              "f": "=C13-B13",
+              "s": "slmasf",
+              "t": 2,
+              "v": 1
+            },
+            "4": {
+              "f": "=C13/B13",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0714285714285714
+            },
+            "5": {
+              "f": "=SUM($B$11:B13)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 36
+            },
+            "6": {
+              "f": "=SUM($C$11:C13)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 37
+            },
+            "7": {
+              "f": "=G13/F13",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0277777777777777
+            }
+          },
+          "13": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "4月"
+            },
+            "1": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 16
+            },
+            "2": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 17
+            },
+            "3": {
+              "f": "=C14-B14",
+              "s": "slmasf",
+              "t": 2,
+              "v": 1
+            },
+            "4": {
+              "f": "=C14/B14",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0625
+            },
+            "5": {
+              "f": "=SUM($B$11:B14)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 52
+            },
+            "6": {
+              "f": "=SUM($C$11:C14)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 54
+            },
+            "7": {
+              "f": "=G14/F14",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0384615384615385
+            }
+          },
+          "14": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "5月"
+            },
+            "1": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 18
+            },
+            "2": {
+              "s": "InV0D6",
+              "t": 2,
+              "v": 17
+            },
+            "3": {
+              "f": "=C15-B15",
+              "s": "slmasf",
+              "t": 2,
+              "v": -1
+            },
+            "4": {
+              "f": "=C15/B15",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 0.9444444444444444
+            },
+            "5": {
+              "f": "=SUM($B$11:B15)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 70
+            },
+            "6": {
+              "f": "=SUM($C$11:C15)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 71
+            },
+            "7": {
+              "f": "=G15/F15",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0142857142857142
+            }
+          },
+          "15": {
+            "0": {
+              "s": "-T8Qj-",
+              "t": 1,
+              "v": "6月"
+            },
+            "1": {
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 20
+            },
+            "2": {
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 22
+            },
+            "3": {
+              "f": "=C16-B16",
+              "s": "_uf8gj",
+              "t": 2,
+              "v": 2
+            },
+            "4": {
+              "f": "=C16/B16",
+              "s": "uC5Rd6",
+              "t": 2,
+              "v": 1.1
+            },
+            "5": {
+              "f": "=SUM($B$11:B16)",
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 90
+            },
+            "6": {
+              "f": "=SUM($C$11:C16)",
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 93
+            },
+            "7": {
+              "f": "=G16/F16",
+              "s": "uC5Rd6",
+              "t": 2,
+              "v": 1.0333333333333334
+            }
+          },
+          "16": {
+            "0": {
+              "s": "PQa4lI",
+              "t": 1,
+              "v": "合计"
+            },
+            "1": {
+              "f": "=SUM(B11:B16)",
+              "s": "7SDLom",
+              "t": 2,
+              "v": 90
+            },
+            "2": {
+              "f": "=SUM(C11:C16)",
+              "s": "7SDLom",
+              "t": 2,
+              "v": 93
+            },
+            "3": {
+              "f": "=C17-B17",
+              "s": "2cs8wG",
+              "t": 2,
+              "v": 3
+            },
+            "4": {
+              "f": "=C17/B17",
+              "s": "1G2uSP",
+              "t": 2,
+              "v": 1.0333333333333334
+            },
+            "5": {
+              "s": "odwYio"
+            },
+            "6": {
+              "s": "odwYio"
+            },
+            "7": {
+              "s": "odwYio"
+            }
+          },
+          "18": {
+            "0": {
+              "s": "jJuA7_",
+              "t": 1,
+              "v": "三、季度汇总"
+            },
+            "1": {
+              "s": "jJuA7_"
+            },
+            "2": {
+              "s": "jJuA7_"
+            },
+            "3": {
+              "s": "jJuA7_"
+            },
+            "4": {
+              "s": "jJuA7_"
+            },
+            "5": {
+              "s": "zETPgq"
+            },
+            "6": {
+              "s": "zETPgq"
+            },
+            "7": {
+              "s": "zETPgq"
+            }
+          },
+          "19": {
+            "0": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "季度"
+            },
+            "1": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "预算（万元）"
+            },
+            "2": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "实际（万元）"
+            },
+            "3": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "差异（万元）"
+            },
+            "4": {
+              "s": "v8L8Mn",
+              "t": 1,
+              "v": "达成率"
+            }
+          },
+          "20": {
+            "0": {
+              "s": "m0gO8k",
+              "t": 1,
+              "v": "Q1（1–3 月）"
+            },
+            "1": {
+              "f": "=SUM(B11:B13)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 36
+            },
+            "2": {
+              "f": "=SUM(C11:C13)",
+              "s": "InV0D6",
+              "t": 2,
+              "v": 37
+            },
+            "3": {
+              "f": "=C21-B21",
+              "s": "slmasf",
+              "t": 2,
+              "v": 1
+            },
+            "4": {
+              "f": "=C21/B21",
+              "s": "OljAF8",
+              "t": 2,
+              "v": 1.0277777777777777
+            }
+          },
+          "21": {
+            "0": {
+              "s": "-T8Qj-",
+              "t": 1,
+              "v": "Q2（4–6 月）"
+            },
+            "1": {
+              "f": "=SUM(B14:B16)",
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 54
+            },
+            "2": {
+              "f": "=SUM(C14:C16)",
+              "s": "EcJ77x",
+              "t": 2,
+              "v": 56
+            },
+            "3": {
+              "f": "=C22-B22",
+              "s": "_uf8gj",
+              "t": 2,
+              "v": 2
+            },
+            "4": {
+              "f": "=C22/B22",
+              "s": "uC5Rd6",
+              "t": 2,
+              "v": 1.037037037037037
+            }
+          },
+          "22": {
+            "0": {
+              "s": "PQa4lI",
+              "t": 1,
+              "v": "上半年合计"
+            },
+            "1": {
+              "f": "=SUM(B21:B22)",
+              "s": "7SDLom",
+              "t": 2,
+              "v": 90
+            },
+            "2": {
+              "f": "=SUM(C21:C22)",
+              "s": "7SDLom",
+              "t": 2,
+              "v": 93
+            },
+            "3": {
+              "f": "=C23-B23",
+              "s": "2cs8wG",
+              "t": 2,
+              "v": 3
+            },
+            "4": {
+              "f": "=C23/B23",
+              "s": "1G2uSP",
+              "t": 2,
+              "v": 1.0333333333333334
+            }
+          },
+          "24": {
+            "0": {
+              "s": "zETPgq",
+              "t": 1,
+              "v": "四、图表分析"
+            },
+            "1": {
+              "s": "zETPgq"
+            },
+            "2": {
+              "s": "zETPgq"
+            },
+            "3": {
+              "s": "zETPgq"
+            },
+            "4": {
+              "s": "zETPgq"
+            },
+            "5": {
+              "s": "zETPgq"
+            },
+            "6": {
+              "s": "zETPgq"
+            },
+            "7": {
+              "s": "zETPgq"
+            }
+          },
+          "41": {
+            "0": {
+              "s": "zETPgq",
+              "t": 1,
+              "v": "五、编制说明"
+            },
+            "1": {
+              "s": "zETPgq"
+            },
+            "2": {
+              "s": "zETPgq"
+            },
+            "3": {
+              "s": "zETPgq"
+            },
+            "4": {
+              "s": "zETPgq"
+            },
+            "5": {
+              "s": "zETPgq"
+            },
+            "6": {
+              "s": "zETPgq"
+            },
+            "7": {
+              "s": "zETPgq"
+            }
+          },
+          "42": {
+            "0": {
+              "s": "cf9ip3",
+              "t": 1,
+              "v": "数据说明：本表为 2026 年销售预算示例，月度预算与实际金额均为示例数据，仅用于演示报表结构。"
+            },
+            "1": {
+              "s": "cf9ip3"
+            },
+            "2": {
+              "s": "cf9ip3"
+            },
+            "3": {
+              "s": "cf9ip3"
+            },
+            "4": {
+              "s": "cf9ip3"
+            },
+            "5": {
+              "s": "cf9ip3"
+            },
+            "6": {
+              "s": "cf9ip3"
+            },
+            "7": {
+              "s": "cf9ip3"
+            }
+          },
+          "43": {
+            "0": {
+              "s": "cf9ip3",
+              "t": 1,
+              "v": "口径说明：差异 = 实际 － 预算；达成率 = 实际 ÷ 预算；累计列为 1 月至当月的累计数。"
+            },
+            "1": {
+              "s": "cf9ip3"
+            },
+            "2": {
+              "s": "cf9ip3"
+            },
+            "3": {
+              "s": "cf9ip3"
+            },
+            "4": {
+              "s": "cf9ip3"
+            },
+            "5": {
+              "s": "cf9ip3"
+            },
+            "6": {
+              "s": "cf9ip3"
+            },
+            "7": {
+              "s": "cf9ip3"
+            }
+          },
+          "44": {
+            "0": {
+              "s": "cf9ip3",
+              "t": 1,
+              "v": "公式说明：合计、差异、达成率及累计各列均由公式计算，更新月度数据后自动重算。"
+            },
+            "1": {
+              "s": "cf9ip3"
+            },
+            "2": {
+              "s": "cf9ip3"
+            },
+            "3": {
+              "s": "cf9ip3"
+            },
+            "4": {
+              "s": "cf9ip3"
+            },
+            "5": {
+              "s": "cf9ip3"
+            },
+            "6": {
+              "s": "cf9ip3"
+            },
+            "7": {
+              "s": "cf9ip3"
+            }
+          }
+        }
+      }
+    },
+    "styles": {
+      "-T8Qj-": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "0-zpu8": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "vt": 2
+      },
+      "0OkaGL": {
+        "fs": 18
+      },
+      "1G2uSP": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "1RXIwS": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "22lUHl": {
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 2,
+        "vt": 2
+      },
+      "29wY8U": {
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        }
+      },
+      "2H-ipL": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 1
+      },
+      "2cs8wG": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "+#,##0.00;-#,##0.00;0.00"
+        },
+        "vt": 2
+      },
+      "4-5s6t": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "5BgkPH": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 2,
+        "vt": 2
+      },
+      "5dHQGR": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 11,
+        "ht": 2,
+        "vt": 2
+      },
+      "7IOK3K": {
+        "fs": 20
+      },
+      "7SDLom": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "7cvhba": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "vt": 2
+      },
+      "7dqqQX": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "8EHKdw": {
+        "vt": 2
+      },
+      "8yZy2a": {
+        "fs": 11
+      },
+      "9QJPK6": {
+        "bd": {
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "vt": 2
+      },
+      "9RHJh3": {
+        "bg": {
+          "rgb": "#DCE6F2"
+        }
+      },
+      "9SOihe": {
+        "bg": {
+          "rgb": "#1F3864"
+        }
+      },
+      "9Xuly9": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "9grXVf": {
+        "bl": 1,
+        "fs": 20
+      },
+      "9j-7LA": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 2,
+        "vt": 2
+      },
+      "9mMazd": {
+        "cl": {
+          "rgb": "#7B8494"
+        },
+        "fs": 9
+      },
+      "AZfb_2": {
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        }
+      },
+      "AfcJDb": {
+        "bg": {
+          "rgb": "#F4F7FC"
+        },
+        "cl": {
+          "rgb": "#33475B"
+        },
+        "fs": 10,
+        "ht": 1
+      },
+      "AfjXWS": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#2F5597"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#F4F7FC"
+        },
+        "cl": {
+          "rgb": "#33475B"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "BmYAcJ": {
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10
+      },
+      "CBu_Mx": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "CsQHRn": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 20,
+        "ht": 2
+      },
+      "D96zso": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 11
+      },
+      "EOPa9e": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 11,
+        "ht": 1
+      },
+      "EcJ77x": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "EkCyIJ": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 11,
+        "ht": 2
+      },
+      "FuEpvM": {
+        "bg": {
+          "rgb": "#F4F7FC"
+        },
+        "cl": {
+          "rgb": "#33475B"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "G8pkCG": {
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10
+      },
+      "G9gJ6D": {
+        "cl": {
+          "rgb": "#6B7280"
+        },
+        "fs": 10,
+        "ht": 1
+      },
+      "IYr1Yg": {
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "vt": 2
+      },
+      "IhTK3c": {
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "IlQsso": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9
+      },
+      "InV0D6": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "J10uIZ": {
+        "bg": {
+          "rgb": "#F4F7FC"
+        },
+        "fs": 10
+      },
+      "Jt5ZBr": {
+        "bd": {
+          "r": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "JxgGun": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18
+      },
+      "KK7ODK": {
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "LCBrX6": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "fs": 9
+      },
+      "MqxGma": {
+        "bd": {
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "O1EG3N": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2
+      },
+      "O3ukFt": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "vt": 2
+      },
+      "OljAF8": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "OmmjQ9": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 11
+      },
+      "POAlEn": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 11,
+        "ht": 2,
+        "vt": 2
+      },
+      "PQa4lI": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "PSShXz": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10,
+        "ht": 2,
+        "vt": 2
+      },
+      "PbwHnl": {
+        "bl": 1,
+        "fs": 18
+      },
+      "PfMK_E": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "QpDHBV": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "RnOdqo": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10,
+        "ht": 2
+      },
+      "S4T35n": {
+        "cl": {
+          "rgb": "#7B8494"
+        },
+        "fs": 9,
+        "ht": 1,
+        "vt": 2
+      },
+      "SWwNFv": {
+        "n": {
+          "pattern": "0.0%"
+        }
+      },
+      "T9wk0Y": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "TNW7Md": {
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "TR3R_l": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "cl": {
+          "rgb": "#FFFFFF"
+        }
+      },
+      "UaNKWQ": {
+        "cl": {
+          "rgb": "#6B7280"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "VPSKt_": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        }
+      },
+      "ViGr4A": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "W6D_6Q": {
+        "fs": 10
+      },
+      "WCuB9a": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 10
+      },
+      "WH_4np": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10
+      },
+      "X2Mc8u": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10,
+        "ht": 2,
+        "stf": 0,
+        "tb": 3,
+        "vt": 2
+      },
+      "XJ1Cut": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        }
+      },
+      "XOWsAV": {
+        "cl": {
+          "rgb": "#7B8494"
+        },
+        "fs": 9,
+        "ht": 1
+      },
+      "YM1Vql": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 20,
+        "ht": 2,
+        "vt": 2
+      },
+      "Z5BHh8": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "vt": 2
+      },
+      "Zhp8ev": {
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "vt": 2
+      },
+      "_uf8gj": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "+#,##0.00;-#,##0.00;0.00"
+        },
+        "vt": 2
+      },
+      "_wkaSi": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "bQHjnN": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "bawrL3": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "n": {
+          "pattern": "+#,##0.00;-#,##0.00;0.00"
+        },
+        "vt": 2
+      },
+      "c5_xLU": {
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "vt": 2
+      },
+      "cf9ip3": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 9,
+        "ht": 1,
+        "vt": 2
+      },
+      "dLrSF8": {
+        "bg": {
+          "rgb": "#F4F7FC"
+        },
+        "cl": {
+          "rgb": "#33475B"
+        },
+        "fs": 10
+      },
+      "e-Jrbo": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "ht": 2,
+        "vt": 2
+      },
+      "eJRsaJ": {
+        "fs": 9
+      },
+      "eN1G2w": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 1,
+        "vt": 2
+      },
+      "eW62T7": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "vt": 2
+      },
+      "eWytRV": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "f_2hkA": {
+        "bl": 1,
+        "fs": 11
+      },
+      "ff1Bk_": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "vt": 2
+      },
+      "gV0oVE": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "vt": 2
+      },
+      "hQHzt4": {
+        "bg": {
+          "rgb": "#FFFFFF"
+        }
+      },
+      "hTT6yz": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10,
+        "ht": 2,
+        "stf": 0,
+        "tb": 3,
+        "vt": 2
+      },
+      "iE714P": {
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "igioye": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18
+      },
+      "j6RW8A": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2
+      },
+      "jJuA7_": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 11,
+        "ht": 1,
+        "vt": 2
+      },
+      "jcUWOP": {
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1
+      },
+      "juz0ZM": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "vt": 2
+      },
+      "jzTOHO": {
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1
+      },
+      "lz8KpF": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "m0gO8k": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 1,
+        "vt": 2
+      },
+      "mnVSnW": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "vt": 2
+      },
+      "odwYio": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "vt": 2
+      },
+      "p7yKya": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 9
+      },
+      "pWb1rj": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "pmFpn3": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 7
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#DCE6F2"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 10,
+        "ht": 3,
+        "vt": 2
+      },
+      "pmglkw": {
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 20
+      },
+      "rVi2QI": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "vt": 2
+      },
+      "rWMvvS": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "fs": 18
+      },
+      "sFaltB": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "sZjkny": {
+        "cl": {
+          "rgb": "#6B7280"
+        },
+        "fs": 10
+      },
+      "slmasf": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "+#,##0.00;-#,##0.00;0.00"
+        },
+        "vt": 2
+      },
+      "smTX90": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 2,
+        "vt": 2
+      },
+      "sxKBWz": {
+        "n": {
+          "pattern": "#,##0.00"
+        }
+      },
+      "t80W6x": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 9,
+        "ht": 1
+      },
+      "tIYI-0": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "tKjIER": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "cl": {
+          "rgb": "#44546A"
+        },
+        "fs": 9,
+        "ht": 2,
+        "vt": 2
+      },
+      "ta0V83": {
+        "ht": 2,
+        "vt": 2
+      },
+      "uC5Rd6": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#DCE4F0"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#FFFFFF"
+        },
+        "cl": {
+          "rgb": "#222222"
+        },
+        "fs": 10,
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "v8L8Mn": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#FFFFFF"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#1F3864"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#FFFFFF"
+        },
+        "fs": 10,
+        "ht": 2,
+        "stf": 0,
+        "tb": 3,
+        "vt": 2
+      },
+      "viTn6Q": {
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "fs": 18
+      },
+      "wi0ZXU": {
+        "bg": {
+          "rgb": "#F4F7FC"
+        }
+      },
+      "wkiF8p": {
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "x5nrSC": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "x7Lg-v": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "vt": 2
+      },
+      "xZUvwP": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#1F3864"
+            },
+            "s": 8
+          }
+        },
+        "bg": {
+          "rgb": "#EAF0F8"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "0.0%"
+        },
+        "vt": 2
+      },
+      "xcxeDn": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 10,
+        "ht": 2
+      },
+      "xfVvdW": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#C8D5EA"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#EEF3FA"
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 18,
+        "ht": 2,
+        "vt": 2
+      },
+      "yRApIp": {
+        "bd": {
+          "l": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "r": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          },
+          "t": {
+            "cl": {
+              "rgb": "#D9DEE8"
+            },
+            "s": 1
+          }
+        },
+        "bg": {
+          "rgb": "#F7F9FC"
+        },
+        "cl": {
+          "rgb": "#1F2937"
+        },
+        "ht": 3,
+        "n": {
+          "pattern": "#,##0.00"
+        },
+        "vt": 2
+      },
+      "yszZx3": {
+        "cl": {
+          "rgb": "#5A6B80"
+        },
+        "fs": 10,
+        "ht": 2,
+        "vt": 2
+      },
+      "zETPgq": {
+        "bd": {
+          "b": {
+            "cl": {
+              "rgb": "#9FB3D1"
+            },
+            "s": 1
+          }
+        },
+        "bl": 1,
+        "cl": {
+          "rgb": "#1F3864"
+        },
+        "fs": 11,
+        "ht": 1,
+        "vt": 2
+      }
+    },
+    "resources": [
+      {
+        "data": "{\"version\":1,\"embeds\":{}}",
+        "name": "UNIVER_EMBED_RESOURCE_PLUGIN"
+      },
+      {
+        "data": "",
+        "name": "SHEET_RANGE_PROTECTION_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_AuthzIoMockService_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_SPARKLINE_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_WORKSHEET_PROTECTION_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_WORKSHEET_PROTECTION_POINT_PLUGIN"
+      },
+      {
+        "data": "{\"sheet-1\":[]}",
+        "name": "SHEET_CONDITIONAL_FORMATTING_PLUGIN"
+      },
+      {
+        "data": "{\"dataFieldManagerConfig\":{\"example-sales\":{\"collections\":{},\"dataFields\":{}}},\"pivotTableConfigs\":{},\"pivotCacheConfigs\":{\"example-sales\":{}}}",
+        "name": "SHEET_PIVOT_TABLE_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_OUTLINE_PLUGIN"
+      },
+      {
+        "data": "{\"sheet-1\":{\"data\":{\"SeXcvGvhXj9uNiRoovvlp\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"drawingId\":\"SeXcvGvhXj9uNiRoovvlp\",\"drawingType\":2,\"componentKey\":\"SheetsChartComponent\",\"sheetTransform\":{\"from\":{\"rowOffset\":0,\"columnOffset\":0,\"column\":0,\"row\":26},\"to\":{\"column\":3,\"columnOffset\":84,\"row\":38,\"rowOffset\":12},\"flipX\":false,\"flipY\":false,\"skewX\":0,\"skewY\":0},\"transform\":{\"left\":46,\"top\":704,\"height\":300,\"width\":410},\"axisAlignSheetTransform\":{\"from\":{\"rowOffset\":0,\"columnOffset\":0,\"column\":0,\"row\":26},\"to\":{\"column\":3,\"columnOffset\":84,\"row\":38,\"rowOffset\":12},\"flipX\":false,\"flipY\":false,\"skewX\":0,\"skewY\":0},\"data\":{\"border\":\"#979DAC\",\"background\":\"#FFFFFF\"},\"allowTransform\":true},\"t0KGMA_t93V77Yth2Q1np\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"drawingId\":\"t0KGMA_t93V77Yth2Q1np\",\"drawingType\":2,\"componentKey\":\"SheetsChartComponent\",\"sheetTransform\":{\"from\":{\"row\":26,\"rowOffset\":0,\"column\":4,\"columnOffset\":0},\"to\":{\"row\":38,\"rowOffset\":12,\"column\":7,\"columnOffset\":94}},\"transform\":{\"left\":476,\"top\":704,\"width\":410,\"height\":300},\"axisAlignSheetTransform\":{\"from\":{\"row\":26,\"rowOffset\":0,\"column\":4,\"columnOffset\":0},\"to\":{\"row\":38,\"rowOffset\":12,\"column\":7,\"columnOffset\":94}},\"data\":{\"border\":\"#979DAC\",\"background\":\"#FFFFFF\"},\"allowTransform\":true}},\"order\":[\"SeXcvGvhXj9uNiRoovvlp\",\"t0KGMA_t93V77Yth2Q1np\"]}}",
+        "name": "SHEET_DRAWING_PLUGIN"
+      },
+      {
+        "data": "{\"sheet-1\":[{\"rangeInfo\":{\"rangeInfo\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"range\":{\"startRow\":9,\"startColumn\":0,\"endRow\":15,\"endColumn\":2,\"startAbsoluteRefType\":0,\"endAbsoluteRefType\":0,\"rangeType\":0}},\"isRowDirection\":false,\"header\":{\"band\":{\"startOffset\":0,\"endOffset\":0}}},\"id\":\"SeXcvGvhXj9uNiRoovvlp\",\"chartType\":4,\"context\":{\"categoryIndexes\":[0],\"seriesIndexes\":[1,2]},\"style\":{\"legend\":{\"position\":\"bottom\"},\"gradientFill\":false,\"titles\":{\"title\":{\"content\":\"月度预算与实际对比（万元）\"}},\"backgroundColor\":\"#FFFFFF\",\"borderColor\":\"#D9DEE8\",\"borderWidth\":1,\"palette\":[\"#2F5597\",\"#E0A63A\"]},\"dataAggregation\":{}},{\"rangeInfo\":[{\"header\":{\"type\":\"literal\",\"value\":\"月份\"},\"range\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"range\":{\"startRow\":10,\"startColumn\":0,\"endRow\":15,\"endColumn\":0,\"startAbsoluteRefType\":0,\"endAbsoluteRefType\":0,\"rangeType\":0}}},{\"header\":{\"type\":\"literal\",\"value\":\"累计预算\"},\"range\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"range\":{\"startRow\":10,\"startColumn\":5,\"endRow\":15,\"endColumn\":5,\"startAbsoluteRefType\":0,\"endAbsoluteRefType\":0,\"rangeType\":0}}},{\"header\":{\"type\":\"literal\",\"value\":\"累计实际\"},\"range\":{\"unitId\":\"example-sales\",\"subUnitId\":\"sheet-1\",\"range\":{\"startRow\":10,\"startColumn\":6,\"endRow\":15,\"endColumn\":6,\"startAbsoluteRefType\":0,\"endAbsoluteRefType\":0,\"rangeType\":0}}}],\"id\":\"t0KGMA_t93V77Yth2Q1np\",\"chartType\":2,\"context\":{\"categoryIndexes\":[0],\"multiLevelCategoryAxis\":false,\"seriesIndexes\":[1,2]},\"style\":{\"titles\":{\"title\":{\"content\":\"累计预算与实际走势（万元）\"}},\"backgroundColor\":\"#FFFFFF\",\"borderColor\":\"#D9DEE8\",\"borderWidth\":1},\"dataAggregation\":{}}]}",
+        "name": "SHEET_CHART_PLUGIN"
+      },
+      {
+        "data": "",
+        "name": "SHEET_NOTE_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_SHAPE_PLUGIN"
+      },
+      {
+        "data": "{\"charts\":{}}",
+        "name": "SHEET_PIVOT_CHART_PLUGIN"
+      },
+      {
+        "data": "{\"slicerCaches\":[],\"slicers\":[],\"timelineCaches\":[],\"timelines\":[]}",
+        "name": "SHEET_SLICER_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_UNIVER_THREAD_COMMENT_PLUGIN"
+      },
+      {
+        "data": "{\"schemaVersion\":1,\"links\":[]}",
+        "name": "SHEET_EXTERNAL_DATA_PLUGIN"
+      },
+      {
+        "data": "{\"schemaVersion\":1,\"references\":{}}",
+        "name": "UNIVER_EXTERNAL_REFERENCE_PLUGIN"
+      },
+      {
+        "data": "",
+        "name": "SHEET_DEFINED_NAME_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_RANGE_THEME_MODEL_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_DATA_VALIDATION_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_FILTER_PLUGIN"
+      },
+      {
+        "data": "{}",
+        "name": "SHEET_TABLE_PLUGIN"
+      }
+    ],
+    "calculationSettings": {
+      "iterativeCalculation": false,
+      "maxChange": 0.001,
+      "maxIterations": 100
+    }
+  }
+}

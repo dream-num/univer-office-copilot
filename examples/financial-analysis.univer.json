@@ -1,0 +1,5816 @@
+{
+  "format": "univer-office-copilot",
+  "version": 1,
+  "type": "doc",
+  "name": "Anthropic IPO · Financial Analysis",
+  "documentFlavor": "modern",
+  "data": {
+    "locale": "enUS",
+    "tableSource": {
+      "DOYbZp": {
+        "tableRows": [
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 1
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          }
+        ],
+        "tableColumns": [
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 215
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 215
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 215
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 215
+              }
+            }
+          }
+        ],
+        "docsTableMetadataVersion": 1,
+        "tableId": "DOYbZp",
+        "align": 0,
+        "indent": {
+          "v": 0
+        },
+        "textWrap": 0,
+        "position": {
+          "positionH": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          },
+          "positionV": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          }
+        },
+        "dist": {
+          "distB": 0,
+          "distL": 0,
+          "distR": 0,
+          "distT": 0
+        },
+        "size": {
+          "type": 1,
+          "width": {
+            "v": 860
+          }
+        }
+      },
+      "yeiqIW": {
+        "tableRows": [
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 1
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          }
+        ],
+        "tableColumns": [
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 368.57142857142856
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 245.71428571428572
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 245.71428571428572
+              }
+            }
+          }
+        ],
+        "docsTableMetadataVersion": 1,
+        "tableId": "yeiqIW",
+        "align": 0,
+        "indent": {
+          "v": 0
+        },
+        "textWrap": 0,
+        "position": {
+          "positionH": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          },
+          "positionV": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          }
+        },
+        "dist": {
+          "distB": 0,
+          "distL": 0,
+          "distR": 0,
+          "distT": 0
+        },
+        "size": {
+          "type": 1,
+          "width": {
+            "v": 860
+          }
+        }
+      },
+      "u2EfLa": {
+        "tableRows": [
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 1
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          }
+        ],
+        "tableColumns": [
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 430
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 430
+              }
+            }
+          }
+        ],
+        "docsTableMetadataVersion": 1,
+        "tableId": "u2EfLa",
+        "align": 0,
+        "indent": {
+          "v": 0
+        },
+        "textWrap": 0,
+        "position": {
+          "positionH": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          },
+          "positionV": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          }
+        },
+        "dist": {
+          "distB": 0,
+          "distL": 0,
+          "distR": 0,
+          "distT": 0
+        },
+        "size": {
+          "type": 1,
+          "width": {
+            "v": 860
+          }
+        }
+      },
+      "Hx-ky8": {
+        "tableRows": [
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 1
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          }
+        ],
+        "tableColumns": [
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 172
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 172
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 172
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 172
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 172
+              }
+            }
+          }
+        ],
+        "docsTableMetadataVersion": 1,
+        "tableId": "Hx-ky8",
+        "align": 0,
+        "indent": {
+          "v": 0
+        },
+        "textWrap": 0,
+        "position": {
+          "positionH": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          },
+          "positionV": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          }
+        },
+        "dist": {
+          "distB": 0,
+          "distL": 0,
+          "distR": 0,
+          "distT": 0
+        },
+        "size": {
+          "type": 1,
+          "width": {
+            "v": 860
+          }
+        }
+      },
+      "P02lmK": {
+        "tableRows": [
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 1
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          },
+          {
+            "tableCells": [
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              },
+              {
+                "margin": {
+                  "start": {
+                    "v": 10
+                  },
+                  "end": {
+                    "v": 10
+                  },
+                  "top": {
+                    "v": 5
+                  },
+                  "bottom": {
+                    "v": 5
+                  }
+                }
+              }
+            ],
+            "trHeight": {
+              "val": {
+                "v": 30
+              },
+              "hRule": 1
+            },
+            "repeatHeaderRow": 0
+          }
+        ],
+        "tableColumns": [
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 430
+              }
+            }
+          },
+          {
+            "size": {
+              "type": 1,
+              "width": {
+                "v": 430
+              }
+            }
+          }
+        ],
+        "docsTableMetadataVersion": 1,
+        "tableId": "P02lmK",
+        "align": 0,
+        "indent": {
+          "v": 0
+        },
+        "textWrap": 0,
+        "position": {
+          "positionH": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          },
+          "positionV": {
+            "relativeFrom": 0,
+            "posOffset": 0
+          }
+        },
+        "dist": {
+          "distB": 0,
+          "distL": 0,
+          "distR": 0,
+          "distT": 0
+        },
+        "size": {
+          "type": 1,
+          "width": {
+            "v": 860
+          }
+        }
+      }
+    },
+    "drawings": {},
+    "drawingsOrder": [],
+    "headers": {},
+    "footers": {},
+    "notes": {},
+    "noteSettings": {},
+    "documentStyle": {
+      "pageSize": {
+        "width": 960,
+        "height": 1122.6666666666667
+      },
+      "documentFlavor": 2,
+      "marginTop": 50,
+      "marginBottom": 50,
+      "marginRight": 50,
+      "marginLeft": 50,
+      "autoHyphenation": 1,
+      "doNotHyphenateCaps": 0,
+      "consecutiveHyphenLimit": 2,
+      "defaultHeaderId": "",
+      "defaultFooterId": "",
+      "evenPageHeaderId": "",
+      "evenPageFooterId": "",
+      "firstPageHeaderId": "",
+      "firstPageFooterId": "",
+      "evenAndOddHeaders": 0,
+      "useFirstPageHeaderFooter": 0,
+      "marginHeader": 30,
+      "marginFooter": 30,
+      "defaultParagraphStyle": {
+        "spaceAbove": {
+          "v": 0
+        },
+        "lineSpacing": 1.5,
+        "spaceBelow": {
+          "v": 12
+        }
+      },
+      "renderConfig": {
+        "zeroWidthParagraphBreak": 0,
+        "vertexAngle": 0,
+        "centerAngle": 0,
+        "background": {
+          "rgb": "#ccc"
+        }
+      }
+    },
+    "settings": {},
+    "body": {
+      "dataStream": "Anthropic IPO Financial Research | Growth, Earnings Quality and Offering Scenarios\rInternal investment committee research | Data as of 2026-11-05 | Units: USD millions\rThis material strictly separates two kinds of information: disclosed facts come from the Form S-1/A Anthropic filed on 2026-11-02 ([S1]) and the company's announcement of 2026-10-26 ([S2]); teaching scenario assumptions serve only to exercise the valuation framework and do not constitute offering guidance, a price range or investment advice. The IPO remains a proposed offering under the intended ticker ANT; this material has no confirmed offer price or share count.\r1 | Executive Summary\rAnthropic's revenue curve is exceptionally steep across the disclosed period: FY2025 revenue of 4,585, up 1,087.82% year over year; 9M2026 revenue of 33,242, up 1,206.17% year over year. That growth is not cost-free: 9M2026 compute and infrastructure expense reached 18,808, or 56.58% of revenue; total operating expenses were 34,502; and the GAAP operating loss was -1,260, a -3.79% operating margin.\rThe key to earnings quality is not the absolute loss but its composition: within the 9M2026 net loss of -104,039, fair value changes on convertible notes and similar instruments of 94,324 are a non-cash measurement; after excluding 3,255 of share-based compensation and 2,086 of non-cash charitable contributions, adjusted operating income was 4,081. The business is close to breakeven at the operating level, while the accounting result is still dominated by non-operating items.\r\u0012\u0013Disclosed (S1 / S2)\rFY2025 revenue 4,585, operating loss -8,060\r9M2026 revenue 33,242, GAAP operating loss -1,260\r9M2026 net loss -104,039, fair value loss 94,324\rAdjusted operating income 4,081 (non-GAAP)\rIPO proposed, ticker ANT, no confirmed price or share count\r\u0014\u0013Teaching scenario assumptions\r2027 revenue 70,000 / 90,000 / 110,000\rOperating margin 5% / 12% / 18%\rPre-money equity value 600,000 / 900,000 / 1,200,000\rNew gross proceeds 50,000, 3% fees, 48,500 net\rPost-money equity value 650,000 / 950,000 / 1,250,000\r\u0014\u0015\u0010Basis of preparation\rDo not subtract the 94,324 fair value loss from the net loss and label the result \"cash burn\", and do not describe the 4,081 adjusted operating income as GAAP profit. The former is a non-cash measurement; the latter is a non-GAAP metric after two add-backs. Cash burn must be read from the cash flow statement, which is not available in this material.\r\u00112 | Financial Baseline\r\u001a\u001b\u001cItem\r\n\u001d\u001cFY2024\r\n\u001d\u001cFY2025\r\n\u001d\u001c9M2025\r\n\u001d\u001c9M2026\r\n\u001d\u000e\u001b\u001cRevenue\r\n\u001d\u001c386\r\n\u001d\u001c4,585\r\n\u001d\u001c2,545\r\n\u001d\u001c33,242\r\n\u001d\u000e\u001b\u001cRevenue, year over year\r\n\u001d\u001c—\r\n\u001d\u001c1,087.82%\r\n\u001d\u001c—\r\n\u001d\u001c1,206.17%\r\n\u001d\u000e\u001b\u001cOperating expenses\r\n\u001d\u001c—\r\n\u001d\u001c12,645\r\n\u001d\u001c—\r\n\u001d\u001c34,502\r\n\u001d\u000e\u001b\u001cOperating income (loss)\r\n\u001d\u001c—\r\n\u001d\u001c-8,060\r\n\u001d\u001c—\r\n\u001d\u001c-1,260\r\n\u001d\u000e\u001b\u001cGAAP operating margin\r\n\u001d\u001c—\r\n\u001d\u001c-175.79%\r\n\u001d\u001c—\r\n\u001d\u001c-3.79%\r\n\u001d\u000e\u001b\u001cNet loss\r\n\u001d\u001c—\r\n\u001d\u001c-41,965\r\n\u001d\u001c—\r\n\u001d\u001c-104,039\r\n\u001d\u000e\u001b\u001cFair value changes, loss\r\n\u001d\u001c—\r\n\u001d\u001c34,308\r\n\u001d\u001c—\r\n\u001d\u001c94,324\r\n\u001d\u000e\u001b\u001cAdjusted operating income (non-GAAP)\r\n\u001d\u001c—\r\n\u001d\u001c—\r\n\u001d\u001c—\r\n\u001d\u001c4,081\r\n\u001d\u000e\u000fMissing items are shown as \"—\" and are not estimated. FY figures are audited; 9M2026 figures are unaudited. The periods cover different spans and are not directly comparable: FY2025 growth is measured from FY2024, while 9M2026 growth is measured from 9M2025, and the two must not be mixed. 9M2026 quarterly revenue was 4,731 / 11,555 / 16,956, totaling 33,242, with Q3 at 51.01% of 9M revenue.\r3 | Earnings Quality Reconciliation\r\u001a\u001b\u001c9M2026 adjustments\r\n\u001d\u001cAmount\r\n\u001d\u001cNature and explanation\r\n\u001d\u000e\u001b\u001cGAAP operating loss\r\n\u001d\u001c-1,260\r\n\u001d\u001cRevenue 33,242 − operating expenses 34,502\r\n\u001d\u000e\u001b\u001cAdd: share-based compensation\r\n\u001d\u001c3,255\r\n\u001d\u001cNon-cash, recurring\r\n\u001d\u000e\u001b\u001cAdd: non-cash charitable contributions\r\n\u001d\u001c2,086\r\n\u001d\u001cNon-cash\r\n\u001d\u000e\u001b\u001cAdjusted operating income (non-GAAP)\r\n\u001d\u001c4,081\r\n\u001d\u001c-1,260 + 3,255 + 2,086\r\n\u001d\u000e\u000fReconciliation: -1,260 + 3,255 + 2,086 = 4,081, consistent with the disclosed figure; operating expenses of 34,502 = compute 18,808 + personnel 4,863 + sales and partnerships 5,529 + other operating and administrative 5,302.\r\u001a\u001b\u001cNet loss memorandum (9M2026)\r\n\u001d\u001cAmount\r\n\u001d\u000e\u001b\u001cNet loss\r\n\u001d\u001c-104,039\r\n\u001d\u000e\u001b\u001cOf which: fair value changes on convertible notes and similar instruments\r\n\u001d\u001c94,324\r\n\u001d\u000e\u001b\u001cOperating loss\r\n\u001d\u001c-1,260\r\n\u001d\u000e\u001b\u001cResidual not broken out (interest, taxes, etc.)\r\n\u001d\u001c-8,455\r\n\u001d\u000e\u000fThe net loss of -104,039 comprises an operating loss of -1,260, a fair value loss of 94,324 and roughly -8,455 of other items; that residual is not broken out in the provided extract and must be reconciled to the full income statement. The 94,324 is a non-cash measurement, and the -9,715 that remains after removing it from net loss is neither cash burn nor free cash flow.\r4 | Three-Scenario Valuation and Fundraising\r\u001a\u001b\u001cTeaching scenario\r\n\u001d\u001cBear\r\n\u001d\u001cBase\r\n\u001d\u001cBull\r\n\u001d\u000e\u001b\u001c2027E revenue\r\n\u001d\u001c70,000\r\n\u001d\u001c90,000\r\n\u001d\u001c110,000\r\n\u001d\u000e\u001b\u001cOperating margin\r\n\u001d\u001c5%\r\n\u001d\u001c12%\r\n\u001d\u001c18%\r\n\u001d\u000e\u001b\u001cOperating income\r\n\u001d\u001c3,500\r\n\u001d\u001c10,800\r\n\u001d\u001c19,800\r\n\u001d\u000e\u001b\u001cPre-money equity value\r\n\u001d\u001c600,000\r\n\u001d\u001c900,000\r\n\u001d\u001c1,200,000\r\n\u001d\u000e\u001b\u001cNew proceeds (gross)\r\n\u001d\u001c50,000\r\n\u001d\u001c50,000\r\n\u001d\u001c50,000\r\n\u001d\u000e\u001b\u001cNet proceeds\r\n\u001d\u001c48,500\r\n\u001d\u001c48,500\r\n\u001d\u001c48,500\r\n\u001d\u000e\u001b\u001cPost-money equity value\r\n\u001d\u001c650,000\r\n\u001d\u001c950,000\r\n\u001d\u001c1,250,000\r\n\u001d\u000e\u001b\u001cNew-share dilution\r\n\u001d\u001c7.69%\r\n\u001d\u001c5.26%\r\n\u001d\u001c4.00%\r\n\u001d\u000e\u001b\u001cForward P/S\r\n\u001d\u001c9.29x\r\n\u001d\u001c10.56x\r\n\u001d\u001c11.36x\r\n\u001d\u000e\u000fNet proceeds = 50,000 × (1 − 3%) = 48,500; dilution = 50,000 ÷ post-money equity value; forward P/S = post-money equity value ÷ 2027E revenue. All three scenarios use the same proceeds and fee rate, so the differences stem entirely from the revenue, margin and valuation assumptions. Net debt data are unavailable, so EV/Sales is not used and no DCF fair value conclusion is drawn.\r5 | Risks and Outstanding Diligence\r\u001a\u001b\u001cRisk\r\n\u001d\u001cEvidence required\r\n\u001d\u000e\u001b\u001cCompute cost rigidity: 9M2026 expense ratio of 56.58%\r\n\u001d\u001cLong-term contract pricing, unit compute cost, depreciation lives and purchase commitments\r\n\u001d\u000e\u001b\u001cNon-GAAP reconciliation: 4,081 depends on 5,341 of add-backs\r\n\u001d\u001cShare-based compensation detail and amortization schedule, charitable contribution documentation\r\n\u001d\u000e\u001b\u001cNet loss composition: 94,324 non-cash, -8,455 residual not broken out\r\n\u001d\u001cFull income statement, interest and taxes, convertible note terms\r\n\u001d\u000e\u001b\u001cPeriod comparability: 9M2025 and FY2024 expense data missing\r\n\u001d\u001cFull quarterly reports, audited annual report and segment data\r\n\u001d\u000e\u001b\u001cRevenue quality: Q3 at 51.01% of 9M\r\n\u001d\u001cCustomer concentration, contract terms, deferred revenue and recognition policy\r\n\u001d\u000e\u001b\u001cOffering terms: no confirmed price or share count\r\n\u001d\u001cFinal prospectus, underwriting agreement, post-offering share count\r\n\u001d\u000e\u000fThe staffing and diligence plan described in this section is illustrative only and does not represent Anthropic's actual internal arrangements.\r6 | Conditional Investment Committee Conclusion\rOn the disclosed basis, Anthropic presents a combination of high growth, operations close to breakeven, and an accounting loss amplified by non-cash items. The base case implies 2027 operating income of 10,800, a forward P/S of 10.56x and 5.26% dilution; the bear and bull cases stand at 9.29x and 11.36x respectively.\rWe recommend proceeding only on four conditions: first, the compute expense ratio stabilizes below 56.58% with long-term contracts as support; second, the adjustments behind the 4,081 adjusted operating income are auditable and share-based compensation does not keep expanding; third, the split of fair value, interest and taxes within net loss is clear, and cash burn is disclosed on a cash flow statement basis; fourth, dilution and P/S are recalculated once a confirmed offer price, share count and net proceeds are available. Until those conditions are met, this material offers no pricing conclusion or fair value judgment.\rSources\r[S1] Anthropic PBC, Form S-1/A, 2026-11-02 — SEC filing; summary financials p. 24, MD&A pp. 150, 159.\r[S2] Anthropic official announcement, 2026-10-26 — S-1 announcement.\r\r\n",
+      "textRuns": [
+        {
+          "st": 83,
+          "ed": 167,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 227,
+          "ed": 242,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 358,
+          "ed": 387,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 2471,
+          "ed": 2475,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 2479,
+          "ed": 2485,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 2489,
+          "ed": 2495,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 2499,
+          "ed": 2505,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 2509,
+          "ed": 2515,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 3086,
+          "ed": 3151,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 3411,
+          "ed": 3429,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 3433,
+          "ed": 3439,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 3443,
+          "ed": 3465,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 3988,
+          "ed": 4016,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 4020,
+          "ed": 4026,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 4662,
+          "ed": 4679,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 4683,
+          "ed": 4687,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 4691,
+          "ed": 4695,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 4699,
+          "ed": 4703,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 5463,
+          "ed": 5492,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 5600,
+          "ed": 5604,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 5608,
+          "ed": 5625,
+          "ts": {
+            "bl": 1
+          }
+        },
+        {
+          "st": 7615,
+          "ed": 7622,
+          "ts": {
+            "bl": 1
+          }
+        }
+      ],
+      "customBlocks": [],
+      "tables": [
+        {
+          "startIndex": 2468,
+          "endIndex": 2978,
+          "tableId": "Hx-ky8"
+        },
+        {
+          "startIndex": 3408,
+          "endIndex": 3760,
+          "tableId": "yeiqIW"
+        },
+        {
+          "startIndex": 3985,
+          "endIndex": 4239,
+          "tableId": "u2EfLa"
+        },
+        {
+          "startIndex": 4659,
+          "endIndex": 5179,
+          "tableId": "DOYbZp"
+        },
+        {
+          "startIndex": 5597,
+          "endIndex": 6475,
+          "tableId": "P02lmK"
+        }
+      ],
+      "columnGroups": [
+        {
+          "startIndex": 1543,
+          "endIndex": 2069,
+          "columnGroupId": "disclosure:1",
+          "columns": [
+            {
+              "columnId": "disclosure:1:1",
+              "widthRatio": 1
+            },
+            {
+              "columnId": "disclosure:1:2",
+              "widthRatio": 1
+            }
+          ],
+          "gap": {
+            "v": 24
+          },
+          "layout": "fixed",
+          "responsive": "stack"
+        }
+      ],
+      "blockRanges": [
+        {
+          "blockId": "basis:2",
+          "blockType": "callout",
+          "startIndex": 2070,
+          "endIndex": 2444
+        }
+      ],
+      "customRanges": [
+        {
+          "rangeId": "md-link-para_jk2y1YCWEQqf-1",
+          "rangeType": 0,
+          "startIndex": 7668,
+          "endIndex": 7677,
+          "properties": {
+            "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+          }
+        },
+        {
+          "rangeId": "md-link-para_Je0zTh31T9SO-0",
+          "rangeType": 0,
+          "startIndex": 7776,
+          "endIndex": 7791,
+          "properties": {
+            "url": "https://www.anthropic.com/news/s1-sec"
+          }
+        }
+      ],
+      "customDecorations": [],
+      "paragraphs": [
+        {
+          "startIndex": 82,
+          "paragraphStyle": {
+            "namedStyleType": 4,
+            "headingId": "cover:1"
+          },
+          "paragraphId": "para_JHGb6MUq_GtE"
+        },
+        {
+          "startIndex": 167,
+          "paragraphId": "para_mfcr1cpf1MjX"
+        },
+        {
+          "startIndex": 637,
+          "paragraphId": "para_59pLK4mSlpMl"
+        },
+        {
+          "startIndex": 659,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "exec-summary:1"
+          },
+          "paragraphId": "para_s4bEVuWLih6L"
+        },
+        {
+          "startIndex": 1061,
+          "paragraphId": "para_CyjKL8B4hyDO"
+        },
+        {
+          "startIndex": 1542,
+          "paragraphId": "para_W-kX6dfYTTwc"
+        },
+        {
+          "startIndex": 1564,
+          "paragraphStyle": {
+            "namedStyleType": 6,
+            "headingId": "col-left:1"
+          },
+          "paragraphId": "para_zyh2501NfYAc"
+        },
+        {
+          "startIndex": 1608,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:1:2"
+          },
+          "paragraphId": "para_HlJfyjLqbaVd"
+        },
+        {
+          "startIndex": 1658,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:1:2"
+          },
+          "paragraphId": "para_A0zCHtXfYTMv"
+        },
+        {
+          "startIndex": 1707,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:1:2"
+          },
+          "paragraphId": "para_vS5utyBAxwfp"
+        },
+        {
+          "startIndex": 1750,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:1:2"
+          },
+          "paragraphId": "para__bJZOW7-zMv9"
+        },
+        {
+          "startIndex": 1810,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:1:2"
+          },
+          "paragraphId": "para_9MpBu-SReFB5"
+        },
+        {
+          "startIndex": 1842,
+          "paragraphStyle": {
+            "namedStyleType": 6,
+            "headingId": "col-right:1"
+          },
+          "paragraphId": "para_0xQYpYLzuZsr"
+        },
+        {
+          "startIndex": 1881,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:2:2"
+          },
+          "paragraphId": "para_E2N91aN7o2gv"
+        },
+        {
+          "startIndex": 1913,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:2:2"
+          },
+          "paragraphId": "para_A7WzMTPZ0Bv1"
+        },
+        {
+          "startIndex": 1966,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:2:2"
+          },
+          "paragraphId": "para_r35XfYfPYMKr"
+        },
+        {
+          "startIndex": 2013,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:2:2"
+          },
+          "paragraphId": "para_xSmn1ahkreEY"
+        },
+        {
+          "startIndex": 2067,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "disclosure:1:2:2"
+          },
+          "paragraphId": "para_JvpNO61Onbhp"
+        },
+        {
+          "startIndex": 2091,
+          "paragraphStyle": {
+            "namedStyleType": 6,
+            "headingId": "basis:1",
+            "indentStart": {
+              "v": 60
+            },
+            "indentEnd": {
+              "v": 20
+            },
+            "keepLines": 1,
+            "keepNext": 1,
+            "widowControl": 1
+          },
+          "paragraphId": "para_iV8rOVqWeRg1"
+        },
+        {
+          "startIndex": 2443,
+          "paragraphStyle": {
+            "indentStart": {
+              "v": 60
+            },
+            "indentEnd": {
+              "v": 20
+            },
+            "keepLines": 1,
+            "keepNext": 0,
+            "widowControl": 1,
+            "spaceBelow": {
+              "v": 0
+            }
+          },
+          "paragraphId": "para_cPTmdvjjXyHW"
+        },
+        {
+          "startIndex": 2467,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "baseline:1"
+          },
+          "paragraphId": "para_S-Z9O6VA9DJq"
+        },
+        {
+          "startIndex": 2475,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_Qu0tx2AcgzqD"
+        },
+        {
+          "startIndex": 2485,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_owqmKdc4Rw6A"
+        },
+        {
+          "startIndex": 2495,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_ev3Tgv61AYOs"
+        },
+        {
+          "startIndex": 2505,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_yxSMfD9rvcXg"
+        },
+        {
+          "startIndex": 2515,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_bYnNy_-VOd2z"
+        },
+        {
+          "startIndex": 2528,
+          "paragraphId": "para_M8GvKwR_jEVC"
+        },
+        {
+          "startIndex": 2535,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_RXe2Jm99w_JR"
+        },
+        {
+          "startIndex": 2544,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_Ua5F2BXZPO3S"
+        },
+        {
+          "startIndex": 2553,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_wCDn9F0B_bF5"
+        },
+        {
+          "startIndex": 2563,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_4XvvMkrjgS0P"
+        },
+        {
+          "startIndex": 2592,
+          "paragraphId": "para_pEomDb60jUIs"
+        },
+        {
+          "startIndex": 2597,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_lziQ5GTGrOkz"
+        },
+        {
+          "startIndex": 2610,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_SXjl81IjIsXM"
+        },
+        {
+          "startIndex": 2615,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_9FhArGkUV6Y1"
+        },
+        {
+          "startIndex": 2628,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_ApR2Zb-hyftW"
+        },
+        {
+          "startIndex": 2652,
+          "paragraphId": "para_A9rVONsKzdTJ"
+        },
+        {
+          "startIndex": 2657,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_JskkCuXOdtvY"
+        },
+        {
+          "startIndex": 2667,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_Z05Rf9_gIC_n"
+        },
+        {
+          "startIndex": 2672,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_doOsJG3vhpAH"
+        },
+        {
+          "startIndex": 2682,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_UZVs3XMTdBzu"
+        },
+        {
+          "startIndex": 2711,
+          "paragraphId": "para_lSucuZ2Fnqe1"
+        },
+        {
+          "startIndex": 2716,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_iQKfqr_DK51Y"
+        },
+        {
+          "startIndex": 2726,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_XJ6gLeH4K0iy"
+        },
+        {
+          "startIndex": 2731,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_TflzlHPpvbqU"
+        },
+        {
+          "startIndex": 2741,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_IftQnSt0FH-7"
+        },
+        {
+          "startIndex": 2768,
+          "paragraphId": "para_-chhivLa7prg"
+        },
+        {
+          "startIndex": 2773,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_95pxtALSG7uL"
+        },
+        {
+          "startIndex": 2785,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_cSwRslVFKYNv"
+        },
+        {
+          "startIndex": 2790,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_Vn0zbG_SH_uz"
+        },
+        {
+          "startIndex": 2800,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_bGsMHZCVPP1s"
+        },
+        {
+          "startIndex": 2814,
+          "paragraphId": "para_R-ciTWIscsZf"
+        },
+        {
+          "startIndex": 2819,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_lJUVOWEWlaEr"
+        },
+        {
+          "startIndex": 2830,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_6L92gSZtXG75"
+        },
+        {
+          "startIndex": 2835,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_p5fZisAYuol8"
+        },
+        {
+          "startIndex": 2847,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_QlEsfGDop9k1"
+        },
+        {
+          "startIndex": 2877,
+          "paragraphId": "para_AN6sD-yUAdH8"
+        },
+        {
+          "startIndex": 2882,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_ZBjMRF3i1X4J"
+        },
+        {
+          "startIndex": 2892,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_uaHS0IoVU4id"
+        },
+        {
+          "startIndex": 2897,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_P4jru5TLDz7M"
+        },
+        {
+          "startIndex": 2907,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_XXTtQLrZ6VAb"
+        },
+        {
+          "startIndex": 2949,
+          "paragraphId": "para_17ErEXjvKpv2"
+        },
+        {
+          "startIndex": 2954,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_1QSVJvz4d8gt"
+        },
+        {
+          "startIndex": 2959,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_AitFtVMzbLRD"
+        },
+        {
+          "startIndex": 2964,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_u02Qjxnc6wPU"
+        },
+        {
+          "startIndex": 2973,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_O2xTUoyhpzmU"
+        },
+        {
+          "startIndex": 3371,
+          "paragraphId": "para_6NKQphMtEOhA"
+        },
+        {
+          "startIndex": 3407,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "quality:1"
+          },
+          "paragraphId": "para_B_0oj2Xc63Bf"
+        },
+        {
+          "startIndex": 3429,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_W3tum2-2hrwt"
+        },
+        {
+          "startIndex": 3439,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_-qXrxQbz6w3G"
+        },
+        {
+          "startIndex": 3465,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_mOLOifdWdP6_"
+        },
+        {
+          "startIndex": 3490,
+          "paragraphId": "para_YRN3tupwilYm"
+        },
+        {
+          "startIndex": 3500,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_R-kuKml9WJ-t"
+        },
+        {
+          "startIndex": 3546,
+          "paragraphId": "para_fJ9StWSfcNkj"
+        },
+        {
+          "startIndex": 3581,
+          "paragraphId": "para_OpIvp7xC-Ls-"
+        },
+        {
+          "startIndex": 3590,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_VzqA02bNMB29"
+        },
+        {
+          "startIndex": 3613,
+          "paragraphId": "para_uvPp3PILbwOd"
+        },
+        {
+          "startIndex": 3657,
+          "paragraphId": "para_QMSbgSthQKgH"
+        },
+        {
+          "startIndex": 3666,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_NKZhJVJ4Oqi7"
+        },
+        {
+          "startIndex": 3678,
+          "paragraphId": "para__AADJelYW6F4"
+        },
+        {
+          "startIndex": 3720,
+          "paragraphId": "para_fXdN81YswCxE"
+        },
+        {
+          "startIndex": 3729,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_QuXca1RX6yqT"
+        },
+        {
+          "startIndex": 3755,
+          "paragraphId": "para_i4fxSq3qbAy8"
+        },
+        {
+          "startIndex": 3984,
+          "paragraphId": "para_UIK31fLHMcw8"
+        },
+        {
+          "startIndex": 4016,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_7M_ixjpfeGt6"
+        },
+        {
+          "startIndex": 4026,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_M6-SQwmpyy8S"
+        },
+        {
+          "startIndex": 4040,
+          "paragraphId": "para_Dkglvbe_dTZI"
+        },
+        {
+          "startIndex": 4052,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_n2e0zJcxyyAm"
+        },
+        {
+          "startIndex": 4131,
+          "paragraphId": "para_ySBarh0sd2f-"
+        },
+        {
+          "startIndex": 4141,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_adWLY1rSc4dK"
+        },
+        {
+          "startIndex": 4161,
+          "paragraphId": "para_FjsM69Fiek4j"
+        },
+        {
+          "startIndex": 4171,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_oOuuqYJasdd5"
+        },
+        {
+          "startIndex": 4224,
+          "paragraphId": "para_Tn24p-IfEmdo"
+        },
+        {
+          "startIndex": 4234,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_7aoTgIZRvM-E"
+        },
+        {
+          "startIndex": 4613,
+          "paragraphId": "para_ozg7NoDzBZtY"
+        },
+        {
+          "startIndex": 4658,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "scenarios:1"
+          },
+          "paragraphId": "para_ajL8pho3AWvd"
+        },
+        {
+          "startIndex": 4679,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_exnEDuCoY4gQ"
+        },
+        {
+          "startIndex": 4687,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_SjuZLEHYK2uu"
+        },
+        {
+          "startIndex": 4695,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_tOdNZM-NirAy"
+        },
+        {
+          "startIndex": 4703,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            },
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_7nUIUdhJ48Hg"
+        },
+        {
+          "startIndex": 4722,
+          "paragraphId": "para_R3UAYqdzKyBW"
+        },
+        {
+          "startIndex": 4732,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_qAdRTSnluoQK"
+        },
+        {
+          "startIndex": 4742,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_ofwFSRsUOjqO"
+        },
+        {
+          "startIndex": 4753,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_3mmY7rCWkMBH"
+        },
+        {
+          "startIndex": 4775,
+          "paragraphId": "para_8oZQ7FHzZz_k"
+        },
+        {
+          "startIndex": 4781,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_l40IqmqmHvVf"
+        },
+        {
+          "startIndex": 4788,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_yEfQ6PXVHbfv"
+        },
+        {
+          "startIndex": 4795,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_6zXxg6yc0wTq"
+        },
+        {
+          "startIndex": 4817,
+          "paragraphId": "para_-y7IZXmOePt0"
+        },
+        {
+          "startIndex": 4826,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_jI9S9mkEi-EZ"
+        },
+        {
+          "startIndex": 4836,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_mDRe9rKivRD1"
+        },
+        {
+          "startIndex": 4846,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_oND9928nQu1F"
+        },
+        {
+          "startIndex": 4874,
+          "paragraphId": "para_jbhESKbBFgRd"
+        },
+        {
+          "startIndex": 4885,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_rAt8T48TuTvK"
+        },
+        {
+          "startIndex": 4896,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_iGMhKskyv5Vv"
+        },
+        {
+          "startIndex": 4909,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_Kj0crgcJfoRn"
+        },
+        {
+          "startIndex": 4935,
+          "paragraphId": "para_6Evoe0Ngct8H"
+        },
+        {
+          "startIndex": 4945,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_SWjM5qB4JAB-"
+        },
+        {
+          "startIndex": 4955,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para__r2hF7IhQVOi"
+        },
+        {
+          "startIndex": 4965,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_YuQr6QF_Wc-W"
+        },
+        {
+          "startIndex": 4983,
+          "paragraphId": "para_X5wENN7e5nmd"
+        },
+        {
+          "startIndex": 4993,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_Vdbd8wW8J48j"
+        },
+        {
+          "startIndex": 5003,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_UvSFcqHVTbwM"
+        },
+        {
+          "startIndex": 5013,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_CI-eZT3bD9x-"
+        },
+        {
+          "startIndex": 5042,
+          "paragraphId": "para_1yyWwjgBDDDd"
+        },
+        {
+          "startIndex": 5053,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_ML5AlKtDII9z"
+        },
+        {
+          "startIndex": 5064,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_WPXrJknP6fR8"
+        },
+        {
+          "startIndex": 5077,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_vc67Y5GxhqAU"
+        },
+        {
+          "startIndex": 5101,
+          "paragraphId": "para_SZCqUMGqKMcq"
+        },
+        {
+          "startIndex": 5110,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_NPwg5oU5VSG9"
+        },
+        {
+          "startIndex": 5119,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_c5SYEDHmaOJA"
+        },
+        {
+          "startIndex": 5128,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_n4spHAgxnV-i"
+        },
+        {
+          "startIndex": 5145,
+          "paragraphId": "para_cfU2f2wGIYv-"
+        },
+        {
+          "startIndex": 5154,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_0oOKRrzkn7JQ"
+        },
+        {
+          "startIndex": 5164,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_t6YyNDOZkwuJ"
+        },
+        {
+          "startIndex": 5174,
+          "paragraphStyle": {
+            "horizontalAlign": 3
+          },
+          "paragraphId": "para_rSZ_rv-yE-7H"
+        },
+        {
+          "startIndex": 5560,
+          "paragraphId": "para_PqaBBvW2N2Sb"
+        },
+        {
+          "startIndex": 5596,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "risks:1"
+          },
+          "paragraphId": "para_DiENLrt2HNdR"
+        },
+        {
+          "startIndex": 5604,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_vN0n_A1xO7ln"
+        },
+        {
+          "startIndex": 5625,
+          "paragraphStyle": {
+            "textStyle": {
+              "bl": 1
+            }
+          },
+          "paragraphId": "para_fqUzymZMHZus"
+        },
+        {
+          "startIndex": 5684,
+          "paragraphId": "para_QBAeBdZnMiKu"
+        },
+        {
+          "startIndex": 5778,
+          "paragraphId": "para_LeXWRnQ42CMU"
+        },
+        {
+          "startIndex": 5844,
+          "paragraphId": "para_H94z87qVrLKQ"
+        },
+        {
+          "startIndex": 5944,
+          "paragraphId": "para_hNA-oEHIkYIa"
+        },
+        {
+          "startIndex": 6019,
+          "paragraphId": "para_DY7vMc_WpXO0"
+        },
+        {
+          "startIndex": 6088,
+          "paragraphId": "para_U07CKiHmBlZu"
+        },
+        {
+          "startIndex": 6154,
+          "paragraphId": "para_t_T_5-PyeFbg"
+        },
+        {
+          "startIndex": 6220,
+          "paragraphId": "para_qlwh8awBf7gW"
+        },
+        {
+          "startIndex": 6261,
+          "paragraphId": "para_xV8Fwc7ORRt8"
+        },
+        {
+          "startIndex": 6344,
+          "paragraphId": "para_xAWvQhXALKdd"
+        },
+        {
+          "startIndex": 6399,
+          "paragraphId": "para_sv640rykv6ea"
+        },
+        {
+          "startIndex": 6470,
+          "paragraphId": "para_xdNtVO8f49V-"
+        },
+        {
+          "startIndex": 6618,
+          "paragraphId": "para_AfH6jhrHB9f3"
+        },
+        {
+          "startIndex": 6666,
+          "paragraphStyle": {
+            "namedStyleType": 5,
+            "headingId": "conclusion:1"
+          },
+          "paragraphId": "para_UfuZxZVF0EiR"
+        },
+        {
+          "startIndex": 6985,
+          "paragraphId": "para_T604_YPw9GK4"
+        },
+        {
+          "startIndex": 7614,
+          "paragraphId": "para_fRpRWrije_t-"
+        },
+        {
+          "startIndex": 7622,
+          "paragraphId": "para_Ir7NRuiqq50q"
+        },
+        {
+          "startIndex": 7724,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "conclusion:5"
+          },
+          "paragraphId": "para_wCey8f37Z9hv"
+        },
+        {
+          "startIndex": 7793,
+          "paragraphStyle": {},
+          "bullet": {
+            "nestingLevel": 0,
+            "listType": "BULLET_LIST",
+            "listId": "conclusion:5"
+          },
+          "paragraphId": "para_PL8VQ5w0K8y7"
+        },
+        {
+          "startIndex": 7794,
+          "paragraphId": "para_Cn2glnH0EHsg"
+        }
+      ],
+      "sectionBreaks": [
+        {
+          "sectionId": "section_cZDL8giouDi7",
+          "startIndex": 2476
+        },
+        {
+          "sectionId": "section_UbOJEyWbPWBg",
+          "startIndex": 2486
+        },
+        {
+          "sectionId": "section_XQxt0IgBkCUe",
+          "startIndex": 2496
+        },
+        {
+          "sectionId": "section_jXpg6kDrdsM0",
+          "startIndex": 2506
+        },
+        {
+          "sectionId": "section_7PhNwNtzsPxS",
+          "startIndex": 2516
+        },
+        {
+          "sectionId": "section_GPpuO5nMORrx",
+          "startIndex": 2529
+        },
+        {
+          "sectionId": "section_xt3akZnhWxg-",
+          "startIndex": 2536
+        },
+        {
+          "sectionId": "section_C0n0GwUIHa66",
+          "startIndex": 2545
+        },
+        {
+          "sectionId": "section_FoOwnfvTvjgt",
+          "startIndex": 2554
+        },
+        {
+          "sectionId": "section_pW6AjO9EsV_T",
+          "startIndex": 2564
+        },
+        {
+          "sectionId": "section_HEhVW607rPRw",
+          "startIndex": 2593
+        },
+        {
+          "sectionId": "section_9_bxoEy-Ywty",
+          "startIndex": 2598
+        },
+        {
+          "sectionId": "section_pOr3clvvs2tn",
+          "startIndex": 2611
+        },
+        {
+          "sectionId": "section_Ial71ZVgxtjy",
+          "startIndex": 2616
+        },
+        {
+          "sectionId": "section_37cV7tpCnuyX",
+          "startIndex": 2629
+        },
+        {
+          "sectionId": "section_8SHJf8DBTFKW",
+          "startIndex": 2653
+        },
+        {
+          "sectionId": "section_bvQZV_QPLJP_",
+          "startIndex": 2658
+        },
+        {
+          "sectionId": "section_jy9lRIlwDc1_",
+          "startIndex": 2668
+        },
+        {
+          "sectionId": "section_0JT-Sdfq9dN0",
+          "startIndex": 2673
+        },
+        {
+          "sectionId": "section_nlV5doWqEepV",
+          "startIndex": 2683
+        },
+        {
+          "sectionId": "section_o0qeCKMLk7MN",
+          "startIndex": 2712
+        },
+        {
+          "sectionId": "section_L6-FTHCUIZGQ",
+          "startIndex": 2717
+        },
+        {
+          "sectionId": "section_AvKHjQaDC9WR",
+          "startIndex": 2727
+        },
+        {
+          "sectionId": "section_yMnvRp7SfXOB",
+          "startIndex": 2732
+        },
+        {
+          "sectionId": "section_KrlnbRsQ5iSX",
+          "startIndex": 2742
+        },
+        {
+          "sectionId": "section_d4tUxaSArFEC",
+          "startIndex": 2769
+        },
+        {
+          "sectionId": "section_KE9zQ2t3TBQt",
+          "startIndex": 2774
+        },
+        {
+          "sectionId": "section_bU6P-ARNgFPg",
+          "startIndex": 2786
+        },
+        {
+          "sectionId": "section_DA50rWIs9eQT",
+          "startIndex": 2791
+        },
+        {
+          "sectionId": "section_EpPXWIjDL6Vi",
+          "startIndex": 2801
+        },
+        {
+          "sectionId": "section_MHdtfqd_24Rj",
+          "startIndex": 2815
+        },
+        {
+          "sectionId": "section_HzRcAxIncNFZ",
+          "startIndex": 2820
+        },
+        {
+          "sectionId": "section_if2MYanneAle",
+          "startIndex": 2831
+        },
+        {
+          "sectionId": "section_6S4gdFjKLcIu",
+          "startIndex": 2836
+        },
+        {
+          "sectionId": "section_JEEaI2083jab",
+          "startIndex": 2848
+        },
+        {
+          "sectionId": "section_ETAmNlTzYJzm",
+          "startIndex": 2878
+        },
+        {
+          "sectionId": "section_XUXRN9ZMyFQV",
+          "startIndex": 2883
+        },
+        {
+          "sectionId": "section_F75Yn7-vt_34",
+          "startIndex": 2893
+        },
+        {
+          "sectionId": "section_DM5GdPJUlEZD",
+          "startIndex": 2898
+        },
+        {
+          "sectionId": "section_pk38FCdWfdU3",
+          "startIndex": 2908
+        },
+        {
+          "sectionId": "section_SZw20iPVQ-Bu",
+          "startIndex": 2950
+        },
+        {
+          "sectionId": "section_tpUhwMjkngtP",
+          "startIndex": 2955
+        },
+        {
+          "sectionId": "section_4N6SqzTStrob",
+          "startIndex": 2960
+        },
+        {
+          "sectionId": "section_K--ZOCGs-0JZ",
+          "startIndex": 2965
+        },
+        {
+          "sectionId": "section_LmElOqnjJFzj",
+          "startIndex": 2974
+        },
+        {
+          "sectionId": "section_zsNLGSC08uYt",
+          "startIndex": 3430
+        },
+        {
+          "sectionId": "section_aAqkr2gSk99x",
+          "startIndex": 3440
+        },
+        {
+          "sectionId": "section_0Y4jlAHV0vdA",
+          "startIndex": 3466
+        },
+        {
+          "sectionId": "section_g1swPAaa-FCF",
+          "startIndex": 3491
+        },
+        {
+          "sectionId": "section_4tcRmjFUZcj6",
+          "startIndex": 3501
+        },
+        {
+          "sectionId": "section_y8svniTjqpdk",
+          "startIndex": 3547
+        },
+        {
+          "sectionId": "section_tZACwKGXRoPM",
+          "startIndex": 3582
+        },
+        {
+          "sectionId": "section_oUHlQz8qn2K0",
+          "startIndex": 3591
+        },
+        {
+          "sectionId": "section_XmFNP2rQhQf7",
+          "startIndex": 3614
+        },
+        {
+          "sectionId": "section_QdzzRpkJ5Bzm",
+          "startIndex": 3658
+        },
+        {
+          "sectionId": "section_K9UNMhSKEFE1",
+          "startIndex": 3667
+        },
+        {
+          "sectionId": "section_Wl7KI2KxCC7z",
+          "startIndex": 3679
+        },
+        {
+          "sectionId": "section_h3ZEB1yBfKQB",
+          "startIndex": 3721
+        },
+        {
+          "sectionId": "section_YsdOHpyLBeXa",
+          "startIndex": 3730
+        },
+        {
+          "sectionId": "section_H3HOVV6OBvCp",
+          "startIndex": 3756
+        },
+        {
+          "sectionId": "section_8YGSwRa0LkkW",
+          "startIndex": 4017
+        },
+        {
+          "sectionId": "section_yx_hrGznHpvb",
+          "startIndex": 4027
+        },
+        {
+          "sectionId": "section_Yrom_TSEvtta",
+          "startIndex": 4041
+        },
+        {
+          "sectionId": "section_fubRY87IbgE4",
+          "startIndex": 4053
+        },
+        {
+          "sectionId": "section_r3GlGP_38RqH",
+          "startIndex": 4132
+        },
+        {
+          "sectionId": "section_Czuz8T_maKfr",
+          "startIndex": 4142
+        },
+        {
+          "sectionId": "section_k-riBp3V1RGp",
+          "startIndex": 4162
+        },
+        {
+          "sectionId": "section_3PrQGptlFBpG",
+          "startIndex": 4172
+        },
+        {
+          "sectionId": "section_FqLNNVb7zP8o",
+          "startIndex": 4225
+        },
+        {
+          "sectionId": "section_v6ZW8RyzfOyQ",
+          "startIndex": 4235
+        },
+        {
+          "sectionId": "section_CMA_QZaVw2so",
+          "startIndex": 4680
+        },
+        {
+          "sectionId": "section_eEZvWcMp5nOR",
+          "startIndex": 4688
+        },
+        {
+          "sectionId": "section_priF5PNGoqif",
+          "startIndex": 4696
+        },
+        {
+          "sectionId": "section_dqLdc0STkUTj",
+          "startIndex": 4704
+        },
+        {
+          "sectionId": "section_er712ufAKnUS",
+          "startIndex": 4723
+        },
+        {
+          "sectionId": "section_y04e5Tf7j5yk",
+          "startIndex": 4733
+        },
+        {
+          "sectionId": "section_9TYRVtVic5E0",
+          "startIndex": 4743
+        },
+        {
+          "sectionId": "section_lKWex7iNDbRn",
+          "startIndex": 4754
+        },
+        {
+          "sectionId": "section_5g-wxyCFTxR2",
+          "startIndex": 4776
+        },
+        {
+          "sectionId": "section_IqyvdkLMO9tb",
+          "startIndex": 4782
+        },
+        {
+          "sectionId": "section_MXpWN3H3hnPP",
+          "startIndex": 4789
+        },
+        {
+          "sectionId": "section_seU2gv28JJW_",
+          "startIndex": 4796
+        },
+        {
+          "sectionId": "section_SPHt09J2potC",
+          "startIndex": 4818
+        },
+        {
+          "sectionId": "section_JbFjxtX9m3-O",
+          "startIndex": 4827
+        },
+        {
+          "sectionId": "section_3QViK9ZxLsOQ",
+          "startIndex": 4837
+        },
+        {
+          "sectionId": "section_XP2dbRk96yR8",
+          "startIndex": 4847
+        },
+        {
+          "sectionId": "section_fn-S-8hEMv08",
+          "startIndex": 4875
+        },
+        {
+          "sectionId": "section_MQU4v5Q9oi7q",
+          "startIndex": 4886
+        },
+        {
+          "sectionId": "section_vOqLZxeUuVia",
+          "startIndex": 4897
+        },
+        {
+          "sectionId": "section_4w1S6P9eJMHI",
+          "startIndex": 4910
+        },
+        {
+          "sectionId": "section_wQ-Um0krgq6F",
+          "startIndex": 4936
+        },
+        {
+          "sectionId": "section_St4qqRe9JhyR",
+          "startIndex": 4946
+        },
+        {
+          "sectionId": "section_c5V95H96PcSJ",
+          "startIndex": 4956
+        },
+        {
+          "sectionId": "section_OSF_2eJfaJn7",
+          "startIndex": 4966
+        },
+        {
+          "sectionId": "section_BYjEvLkLX60M",
+          "startIndex": 4984
+        },
+        {
+          "sectionId": "section_QVUiE8Hvrd3S",
+          "startIndex": 4994
+        },
+        {
+          "sectionId": "section_p-IGRWQERrR-",
+          "startIndex": 5004
+        },
+        {
+          "sectionId": "section_bNfELJPt4gV8",
+          "startIndex": 5014
+        },
+        {
+          "sectionId": "section_GVyb3IeMaZj0",
+          "startIndex": 5043
+        },
+        {
+          "sectionId": "section_H4HKzukeRdAK",
+          "startIndex": 5054
+        },
+        {
+          "sectionId": "section_tx-fQdR3BTzX",
+          "startIndex": 5065
+        },
+        {
+          "sectionId": "section_MQQn2eyLFcPx",
+          "startIndex": 5078
+        },
+        {
+          "sectionId": "section_gytAYfCWnUyz",
+          "startIndex": 5102
+        },
+        {
+          "sectionId": "section_QxykksN00C2l",
+          "startIndex": 5111
+        },
+        {
+          "sectionId": "section_qOUwDHdCStn-",
+          "startIndex": 5120
+        },
+        {
+          "sectionId": "section_U99jk5ZF_qvM",
+          "startIndex": 5129
+        },
+        {
+          "sectionId": "section_SYzRbMdSkZsQ",
+          "startIndex": 5146
+        },
+        {
+          "sectionId": "section_HNKMiLyINZEn",
+          "startIndex": 5155
+        },
+        {
+          "sectionId": "section_iJhdWbAApQYb",
+          "startIndex": 5165
+        },
+        {
+          "sectionId": "section_wCwzvHLch03o",
+          "startIndex": 5175
+        },
+        {
+          "sectionId": "section_iIQXR2eCTR_U",
+          "startIndex": 5605
+        },
+        {
+          "sectionId": "section_Cqqyk1R5RnI9",
+          "startIndex": 5626
+        },
+        {
+          "sectionId": "section_h0TGkItM7_yF",
+          "startIndex": 5685
+        },
+        {
+          "sectionId": "section_xpGwkEb_fn1B",
+          "startIndex": 5779
+        },
+        {
+          "sectionId": "section_0LubTxAMYgyg",
+          "startIndex": 5845
+        },
+        {
+          "sectionId": "section_GXTHNOL8ledI",
+          "startIndex": 5945
+        },
+        {
+          "sectionId": "section_LLZMmTXJM1X8",
+          "startIndex": 6020
+        },
+        {
+          "sectionId": "section_MKw_2SLWEO1j",
+          "startIndex": 6089
+        },
+        {
+          "sectionId": "section__XfL25_Yg-5P",
+          "startIndex": 6155
+        },
+        {
+          "sectionId": "section_bCl-0CyYm8tl",
+          "startIndex": 6221
+        },
+        {
+          "sectionId": "section_EUGbxG3qsRME",
+          "startIndex": 6262
+        },
+        {
+          "sectionId": "section_r4feWMsR_Jcq",
+          "startIndex": 6345
+        },
+        {
+          "sectionId": "section_1NH1AjIhhX2q",
+          "startIndex": 6400
+        },
+        {
+          "sectionId": "section_Cw1n617qSpp3",
+          "startIndex": 6471
+        },
+        {
+          "sectionId": "section_wXae3eknGLOb",
+          "startIndex": 7795
+        }
+      ]
+    },
+    "id": "example-financial-analysis",
+    "rev": 1,
+    "title": "Untitled document",
+    "resources": [
+      {
+        "name": "UNIVER_EMBED_RESOURCE_PLUGIN",
+        "data": "{\"version\":1,\"embeds\":{}}"
+      },
+      {
+        "name": "DOC_HYPER_LINK_PLUGIN",
+        "data": "{\"links\":[{\"id\":\"md-link-para_jk2y1YCWEQqf-1\",\"payload\":\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm\"},{\"id\":\"md-link-para_Je0zTh31T9SO-0\",\"payload\":\"https://www.anthropic.com/news/s1-sec\"}]}"
+      },
+      {
+        "name": "DOC_OBJECT_PERMISSION_PLUGIN",
+        "data": "[]"
+      },
+      {
+        "name": "DOC_WORD_STYLES_PLUGIN",
+        "data": ""
+      },
+      {
+        "name": "DOC_NOTE_PLUGIN",
+        "data": ""
+      },
+      {
+        "name": "DOC_DRAWING_PLUGIN",
+        "data": "{\"data\":{},\"order\":[]}"
+      },
+      {
+        "name": "DOC_CALLOUT_PLUGIN",
+        "data": "{\"callouts\":{\"basis:2\":{\"icon\":\"🎨\",\"showIcon\":true,\"backgroundColor\":\"#FFFBEB\",\"borderColor\":\"\",\"borderWidth\":1,\"borderOpacity\":1,\"borderStyle\":1,\"borderRadius\":8,\"paddingTop\":16,\"paddingRight\":20,\"paddingBottom\":16,\"paddingLeft\":20,\"iconSize\":24,\"iconGap\":16}}}"
+      },
+      {
+        "name": "DOC_CHART_PLUGIN",
+        "data": "{\"dataSources\":{},\"charts\":{}}"
+      },
+      {
+        "name": "DOC_CODE_PLUGIN",
+        "data": "{\"codes\":{}}"
+      },
+      {
+        "name": "DOC_LATEX_PLUGIN",
+        "data": "{\"formulas\":{}}"
+      },
+      {
+        "name": "DOC_SHAPE_PLUGIN",
+        "data": "[]"
+      },
+      {
+        "name": "DOC_TABLE_PLUGIN",
+        "data": "{\"tables\":{\"DOYbZp\":{\"headerRowCount\":1,\"titleRow\":false},\"yeiqIW\":{\"headerRowCount\":1,\"titleRow\":false},\"u2EfLa\":{\"headerRowCount\":1,\"titleRow\":false},\"Hx-ky8\":{\"headerRowCount\":1,\"titleRow\":false},\"P02lmK\":{\"headerRowCount\":1,\"titleRow\":false}}}"
+      },
+      {
+        "name": "DOC_UNIVER_THREAD_COMMENT_PLUGIN",
+        "data": "{}"
+      },
+      {
+        "name": "UNIVER_EXTERNAL_REFERENCE_PLUGIN",
+        "data": "{\"schemaVersion\":1,\"references\":{}}"
+      }
+    ]
+  },
+  "documentState": {
+    "sourceMap": [
+      {
+        "id": "cover:1",
+        "kind": "heading",
+        "source": {
+          "line": 7,
+          "column": 1,
+          "offset": 85,
+          "endOffset": 202
+        },
+        "parentId": "cover",
+        "paragraphIds": ["para_JHGb6MUq_GtE"],
+        "objectIds": []
+      },
+      {
+        "id": "cover:2",
+        "kind": "paragraph",
+        "source": {
+          "line": 9,
+          "column": 1,
+          "offset": 204,
+          "endOffset": 308
+        },
+        "parentId": "cover",
+        "paragraphIds": ["para_mfcr1cpf1MjX"],
+        "objectIds": []
+      },
+      {
+        "id": "cover:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 11,
+          "column": 1,
+          "offset": 310,
+          "endOffset": 819
+        },
+        "parentId": "cover",
+        "paragraphIds": ["para_59pLK4mSlpMl"],
+        "objectIds": []
+      },
+      {
+        "id": "cover",
+        "kind": "block",
+        "source": {
+          "line": 6,
+          "column": 1,
+          "offset": 64,
+          "endOffset": 823
+        },
+        "paragraphIds": ["para_JHGb6MUq_GtE", "para_mfcr1cpf1MjX", "para_59pLK4mSlpMl"],
+        "objectIds": []
+      },
+      {
+        "id": "exec-summary:1",
+        "kind": "heading",
+        "source": {
+          "line": 15,
+          "column": 1,
+          "offset": 853,
+          "endOffset": 916
+        },
+        "parentId": "exec-summary",
+        "paragraphIds": ["para_s4bEVuWLih6L"],
+        "objectIds": []
+      },
+      {
+        "id": "exec-summary:2",
+        "kind": "paragraph",
+        "source": {
+          "line": 17,
+          "column": 1,
+          "offset": 918,
+          "endOffset": 1319
+        },
+        "parentId": "exec-summary",
+        "paragraphIds": ["para_CyjKL8B4hyDO"],
+        "objectIds": []
+      },
+      {
+        "id": "exec-summary:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 19,
+          "column": 1,
+          "offset": 1321,
+          "endOffset": 1801
+        },
+        "parentId": "exec-summary",
+        "paragraphIds": ["para_W-kX6dfYTTwc"],
+        "objectIds": []
+      },
+      {
+        "id": "exec-summary",
+        "kind": "block",
+        "source": {
+          "line": 14,
+          "column": 1,
+          "offset": 825,
+          "endOffset": 1805
+        },
+        "paragraphIds": ["para_s4bEVuWLih6L", "para_CyjKL8B4hyDO", "para_W-kX6dfYTTwc"],
+        "objectIds": []
+      },
+      {
+        "id": "col-left:1",
+        "kind": "heading",
+        "source": {
+          "line": 25,
+          "column": 1,
+          "offset": 1878,
+          "endOffset": 1935
+        },
+        "parentId": "disclosure:1:1",
+        "paragraphIds": ["para_zyh2501NfYAc"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:1:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 27,
+          "column": 3,
+          "offset": 1939,
+          "endOffset": 1982
+        },
+        "parentId": "disclosure:1:1:2:1",
+        "paragraphIds": ["para_HlJfyjLqbaVd"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:1",
+        "kind": "listItem",
+        "source": {
+          "line": 27,
+          "column": 1,
+          "offset": 1937,
+          "endOffset": 1982
+        },
+        "parentId": "disclosure:1:1:2",
+        "paragraphIds": ["para_HlJfyjLqbaVd"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:2:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 28,
+          "column": 3,
+          "offset": 1985,
+          "endOffset": 2034
+        },
+        "parentId": "disclosure:1:1:2:2",
+        "paragraphIds": ["para_A0zCHtXfYTMv"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:2",
+        "kind": "listItem",
+        "source": {
+          "line": 28,
+          "column": 1,
+          "offset": 1983,
+          "endOffset": 2034
+        },
+        "parentId": "disclosure:1:1:2",
+        "paragraphIds": ["para_A0zCHtXfYTMv"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:3:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 29,
+          "column": 3,
+          "offset": 2037,
+          "endOffset": 2085
+        },
+        "parentId": "disclosure:1:1:2:3",
+        "paragraphIds": ["para_vS5utyBAxwfp"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:3",
+        "kind": "listItem",
+        "source": {
+          "line": 29,
+          "column": 1,
+          "offset": 2035,
+          "endOffset": 2085
+        },
+        "parentId": "disclosure:1:1:2",
+        "paragraphIds": ["para_vS5utyBAxwfp"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:4:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 30,
+          "column": 3,
+          "offset": 2088,
+          "endOffset": 2130
+        },
+        "parentId": "disclosure:1:1:2:4",
+        "paragraphIds": ["para__bJZOW7-zMv9"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:4",
+        "kind": "listItem",
+        "source": {
+          "line": 30,
+          "column": 1,
+          "offset": 2086,
+          "endOffset": 2130
+        },
+        "parentId": "disclosure:1:1:2",
+        "paragraphIds": ["para__bJZOW7-zMv9"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:5:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 31,
+          "column": 3,
+          "offset": 2133,
+          "endOffset": 2192
+        },
+        "parentId": "disclosure:1:1:2:5",
+        "paragraphIds": ["para_9MpBu-SReFB5"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2:5",
+        "kind": "listItem",
+        "source": {
+          "line": 31,
+          "column": 1,
+          "offset": 2131,
+          "endOffset": 2192
+        },
+        "parentId": "disclosure:1:1:2",
+        "paragraphIds": ["para_9MpBu-SReFB5"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1:2",
+        "kind": "list",
+        "source": {
+          "line": 27,
+          "column": 1,
+          "offset": 1937,
+          "endOffset": 2192
+        },
+        "parentId": "disclosure:1:1",
+        "paragraphIds": [
+          "para_HlJfyjLqbaVd",
+          "para_A0zCHtXfYTMv",
+          "para_vS5utyBAxwfp",
+          "para__bJZOW7-zMv9",
+          "para_9MpBu-SReFB5"
+        ],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:1",
+        "kind": "column",
+        "source": {
+          "line": 24,
+          "column": 1,
+          "offset": 1857,
+          "endOffset": 2196
+        },
+        "parentId": "disclosure:1",
+        "paragraphIds": [
+          "para_zyh2501NfYAc",
+          "para_HlJfyjLqbaVd",
+          "para_A0zCHtXfYTMv",
+          "para_vS5utyBAxwfp",
+          "para__bJZOW7-zMv9",
+          "para_9MpBu-SReFB5"
+        ],
+        "objectIds": []
+      },
+      {
+        "id": "col-right:1",
+        "kind": "heading",
+        "source": {
+          "line": 35,
+          "column": 1,
+          "offset": 2219,
+          "endOffset": 2287
+        },
+        "parentId": "disclosure:1:2",
+        "paragraphIds": ["para_0xQYpYLzuZsr"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:1:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 37,
+          "column": 3,
+          "offset": 2291,
+          "endOffset": 2329
+        },
+        "parentId": "disclosure:1:2:2:1",
+        "paragraphIds": ["para_E2N91aN7o2gv"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:1",
+        "kind": "listItem",
+        "source": {
+          "line": 37,
+          "column": 1,
+          "offset": 2289,
+          "endOffset": 2329
+        },
+        "parentId": "disclosure:1:2:2",
+        "paragraphIds": ["para_E2N91aN7o2gv"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:2:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 38,
+          "column": 3,
+          "offset": 2332,
+          "endOffset": 2363
+        },
+        "parentId": "disclosure:1:2:2:2",
+        "paragraphIds": ["para_A7WzMTPZ0Bv1"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:2",
+        "kind": "listItem",
+        "source": {
+          "line": 38,
+          "column": 1,
+          "offset": 2330,
+          "endOffset": 2363
+        },
+        "parentId": "disclosure:1:2:2",
+        "paragraphIds": ["para_A7WzMTPZ0Bv1"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:3:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 39,
+          "column": 3,
+          "offset": 2366,
+          "endOffset": 2418
+        },
+        "parentId": "disclosure:1:2:2:3",
+        "paragraphIds": ["para_r35XfYfPYMKr"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:3",
+        "kind": "listItem",
+        "source": {
+          "line": 39,
+          "column": 1,
+          "offset": 2364,
+          "endOffset": 2418
+        },
+        "parentId": "disclosure:1:2:2",
+        "paragraphIds": ["para_r35XfYfPYMKr"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:4:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 40,
+          "column": 3,
+          "offset": 2421,
+          "endOffset": 2467
+        },
+        "parentId": "disclosure:1:2:2:4",
+        "paragraphIds": ["para_xSmn1ahkreEY"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:4",
+        "kind": "listItem",
+        "source": {
+          "line": 40,
+          "column": 1,
+          "offset": 2419,
+          "endOffset": 2467
+        },
+        "parentId": "disclosure:1:2:2",
+        "paragraphIds": ["para_xSmn1ahkreEY"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:5:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 41,
+          "column": 3,
+          "offset": 2470,
+          "endOffset": 2523
+        },
+        "parentId": "disclosure:1:2:2:5",
+        "paragraphIds": ["para_JvpNO61Onbhp"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2:5",
+        "kind": "listItem",
+        "source": {
+          "line": 41,
+          "column": 1,
+          "offset": 2468,
+          "endOffset": 2523
+        },
+        "parentId": "disclosure:1:2:2",
+        "paragraphIds": ["para_JvpNO61Onbhp"],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2:2",
+        "kind": "list",
+        "source": {
+          "line": 37,
+          "column": 1,
+          "offset": 2289,
+          "endOffset": 2523
+        },
+        "parentId": "disclosure:1:2",
+        "paragraphIds": [
+          "para_E2N91aN7o2gv",
+          "para_A7WzMTPZ0Bv1",
+          "para_r35XfYfPYMKr",
+          "para_xSmn1ahkreEY",
+          "para_JvpNO61Onbhp"
+        ],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1:2",
+        "kind": "column",
+        "source": {
+          "line": 34,
+          "column": 1,
+          "offset": 2198,
+          "endOffset": 2527
+        },
+        "parentId": "disclosure:1",
+        "paragraphIds": [
+          "para_0xQYpYLzuZsr",
+          "para_E2N91aN7o2gv",
+          "para_A7WzMTPZ0Bv1",
+          "para_r35XfYfPYMKr",
+          "para_xSmn1ahkreEY",
+          "para_JvpNO61Onbhp"
+        ],
+        "objectIds": []
+      },
+      {
+        "id": "disclosure:1",
+        "kind": "columns",
+        "source": {
+          "line": 23,
+          "column": 1,
+          "offset": 1835,
+          "endOffset": 2532
+        },
+        "parentId": "disclosure",
+        "paragraphIds": [
+          "para_zyh2501NfYAc",
+          "para_HlJfyjLqbaVd",
+          "para_A0zCHtXfYTMv",
+          "para_vS5utyBAxwfp",
+          "para__bJZOW7-zMv9",
+          "para_9MpBu-SReFB5",
+          "para_0xQYpYLzuZsr",
+          "para_E2N91aN7o2gv",
+          "para_A7WzMTPZ0Bv1",
+          "para_r35XfYfPYMKr",
+          "para_xSmn1ahkreEY",
+          "para_JvpNO61Onbhp"
+        ],
+        "objectIds": ["disclosure:1"]
+      },
+      {
+        "id": "disclosure",
+        "kind": "block",
+        "source": {
+          "line": 22,
+          "column": 1,
+          "offset": 1807,
+          "endOffset": 2538
+        },
+        "paragraphIds": [
+          "para_zyh2501NfYAc",
+          "para_HlJfyjLqbaVd",
+          "para_A0zCHtXfYTMv",
+          "para_vS5utyBAxwfp",
+          "para__bJZOW7-zMv9",
+          "para_9MpBu-SReFB5",
+          "para_0xQYpYLzuZsr",
+          "para_E2N91aN7o2gv",
+          "para_A7WzMTPZ0Bv1",
+          "para_r35XfYfPYMKr",
+          "para_xSmn1ahkreEY",
+          "para_JvpNO61Onbhp"
+        ],
+        "objectIds": ["disclosure:1"]
+      },
+      {
+        "id": "basis:1",
+        "kind": "heading",
+        "source": {
+          "line": 48,
+          "column": 1,
+          "offset": 2599,
+          "endOffset": 2654
+        },
+        "parentId": "basis:2",
+        "paragraphIds": ["para_iV8rOVqWeRg1"],
+        "objectIds": []
+      },
+      {
+        "id": "basis:2:2",
+        "kind": "paragraph",
+        "source": {
+          "line": 50,
+          "column": 1,
+          "offset": 2656,
+          "endOffset": 3007
+        },
+        "parentId": "basis:2",
+        "paragraphIds": ["para_cPTmdvjjXyHW"],
+        "objectIds": []
+      },
+      {
+        "id": "basis:2",
+        "kind": "callout",
+        "source": {
+          "line": 47,
+          "column": 1,
+          "offset": 2562,
+          "endOffset": 3011
+        },
+        "parentId": "basis",
+        "paragraphIds": ["para_iV8rOVqWeRg1", "para_cPTmdvjjXyHW"],
+        "objectIds": ["basis:2"]
+      },
+      {
+        "id": "basis",
+        "kind": "block",
+        "source": {
+          "line": 46,
+          "column": 1,
+          "offset": 2540,
+          "endOffset": 3016
+        },
+        "paragraphIds": ["para_iV8rOVqWeRg1", "para_cPTmdvjjXyHW"],
+        "objectIds": ["basis:2"]
+      },
+      {
+        "id": "baseline:1",
+        "kind": "heading",
+        "source": {
+          "line": 55,
+          "column": 1,
+          "offset": 3043,
+          "endOffset": 3103
+        },
+        "parentId": "baseline",
+        "paragraphIds": ["para_S-Z9O6VA9DJq"],
+        "objectIds": []
+      },
+      {
+        "id": "baseline:2",
+        "kind": "table",
+        "source": {
+          "line": 57,
+          "column": 1,
+          "offset": 3105,
+          "endOffset": 3752
+        },
+        "parentId": "baseline",
+        "paragraphIds": [
+          "para_Qu0tx2AcgzqD",
+          "para_owqmKdc4Rw6A",
+          "para_ev3Tgv61AYOs",
+          "para_yxSMfD9rvcXg",
+          "para_bYnNy_-VOd2z",
+          "para_M8GvKwR_jEVC",
+          "para_RXe2Jm99w_JR",
+          "para_Ua5F2BXZPO3S",
+          "para_wCDn9F0B_bF5",
+          "para_4XvvMkrjgS0P",
+          "para_pEomDb60jUIs",
+          "para_lziQ5GTGrOkz",
+          "para_SXjl81IjIsXM",
+          "para_9FhArGkUV6Y1",
+          "para_ApR2Zb-hyftW",
+          "para_A9rVONsKzdTJ",
+          "para_JskkCuXOdtvY",
+          "para_Z05Rf9_gIC_n",
+          "para_doOsJG3vhpAH",
+          "para_UZVs3XMTdBzu",
+          "para_lSucuZ2Fnqe1",
+          "para_iQKfqr_DK51Y",
+          "para_XJ6gLeH4K0iy",
+          "para_TflzlHPpvbqU",
+          "para_IftQnSt0FH-7",
+          "para_-chhivLa7prg",
+          "para_95pxtALSG7uL",
+          "para_cSwRslVFKYNv",
+          "para_Vn0zbG_SH_uz",
+          "para_bGsMHZCVPP1s",
+          "para_R-ciTWIscsZf",
+          "para_lJUVOWEWlaEr",
+          "para_6L92gSZtXG75",
+          "para_p5fZisAYuol8",
+          "para_QlEsfGDop9k1",
+          "para_AN6sD-yUAdH8",
+          "para_ZBjMRF3i1X4J",
+          "para_uaHS0IoVU4id",
+          "para_P4jru5TLDz7M",
+          "para_XXTtQLrZ6VAb",
+          "para_17ErEXjvKpv2",
+          "para_1QSVJvz4d8gt",
+          "para_AitFtVMzbLRD",
+          "para_u02Qjxnc6wPU",
+          "para_O2xTUoyhpzmU"
+        ],
+        "objectIds": ["Hx-ky8"]
+      },
+      {
+        "id": "baseline:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 70,
+          "column": 1,
+          "offset": 3754,
+          "endOffset": 4167
+        },
+        "parentId": "baseline",
+        "paragraphIds": ["para_6NKQphMtEOhA"],
+        "objectIds": []
+      },
+      {
+        "id": "baseline",
+        "kind": "block",
+        "source": {
+          "line": 54,
+          "column": 1,
+          "offset": 3018,
+          "endOffset": 4172
+        },
+        "paragraphIds": [
+          "para_S-Z9O6VA9DJq",
+          "para_Qu0tx2AcgzqD",
+          "para_owqmKdc4Rw6A",
+          "para_ev3Tgv61AYOs",
+          "para_yxSMfD9rvcXg",
+          "para_bYnNy_-VOd2z",
+          "para_M8GvKwR_jEVC",
+          "para_RXe2Jm99w_JR",
+          "para_Ua5F2BXZPO3S",
+          "para_wCDn9F0B_bF5",
+          "para_4XvvMkrjgS0P",
+          "para_pEomDb60jUIs",
+          "para_lziQ5GTGrOkz",
+          "para_SXjl81IjIsXM",
+          "para_9FhArGkUV6Y1",
+          "para_ApR2Zb-hyftW",
+          "para_A9rVONsKzdTJ",
+          "para_JskkCuXOdtvY",
+          "para_Z05Rf9_gIC_n",
+          "para_doOsJG3vhpAH",
+          "para_UZVs3XMTdBzu",
+          "para_lSucuZ2Fnqe1",
+          "para_iQKfqr_DK51Y",
+          "para_XJ6gLeH4K0iy",
+          "para_TflzlHPpvbqU",
+          "para_IftQnSt0FH-7",
+          "para_-chhivLa7prg",
+          "para_95pxtALSG7uL",
+          "para_cSwRslVFKYNv",
+          "para_Vn0zbG_SH_uz",
+          "para_bGsMHZCVPP1s",
+          "para_R-ciTWIscsZf",
+          "para_lJUVOWEWlaEr",
+          "para_6L92gSZtXG75",
+          "para_p5fZisAYuol8",
+          "para_QlEsfGDop9k1",
+          "para_AN6sD-yUAdH8",
+          "para_ZBjMRF3i1X4J",
+          "para_uaHS0IoVU4id",
+          "para_P4jru5TLDz7M",
+          "para_XXTtQLrZ6VAb",
+          "para_17ErEXjvKpv2",
+          "para_1QSVJvz4d8gt",
+          "para_AitFtVMzbLRD",
+          "para_u02Qjxnc6wPU",
+          "para_O2xTUoyhpzmU",
+          "para_6NKQphMtEOhA"
+        ],
+        "objectIds": ["Hx-ky8"]
+      },
+      {
+        "id": "quality:1",
+        "kind": "heading",
+        "source": {
+          "line": 74,
+          "column": 1,
+          "offset": 4198,
+          "endOffset": 4270
+        },
+        "parentId": "quality",
+        "paragraphIds": ["para_B_0oj2Xc63Bf"],
+        "objectIds": []
+      },
+      {
+        "id": "quality:2",
+        "kind": "table",
+        "source": {
+          "line": 76,
+          "column": 1,
+          "offset": 4272,
+          "endOffset": 4773
+        },
+        "parentId": "quality",
+        "paragraphIds": [
+          "para_W3tum2-2hrwt",
+          "para_-qXrxQbz6w3G",
+          "para_mOLOifdWdP6_",
+          "para_YRN3tupwilYm",
+          "para_R-kuKml9WJ-t",
+          "para_fJ9StWSfcNkj",
+          "para_OpIvp7xC-Ls-",
+          "para_VzqA02bNMB29",
+          "para_uvPp3PILbwOd",
+          "para_QMSbgSthQKgH",
+          "para_NKZhJVJ4Oqi7",
+          "para__AADJelYW6F4",
+          "para_fXdN81YswCxE",
+          "para_QuXca1RX6yqT",
+          "para_i4fxSq3qbAy8"
+        ],
+        "objectIds": ["yeiqIW"]
+      },
+      {
+        "id": "quality:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 85,
+          "column": 1,
+          "offset": 4775,
+          "endOffset": 4999
+        },
+        "parentId": "quality",
+        "paragraphIds": ["para_UIK31fLHMcw8"],
+        "objectIds": []
+      },
+      {
+        "id": "quality:4",
+        "kind": "table",
+        "source": {
+          "line": 87,
+          "column": 1,
+          "offset": 5001,
+          "endOffset": 5334
+        },
+        "parentId": "quality",
+        "paragraphIds": [
+          "para_7M_ixjpfeGt6",
+          "para_M6-SQwmpyy8S",
+          "para_Dkglvbe_dTZI",
+          "para_n2e0zJcxyyAm",
+          "para_ySBarh0sd2f-",
+          "para_adWLY1rSc4dK",
+          "para_FjsM69Fiek4j",
+          "para_oOuuqYJasdd5",
+          "para_Tn24p-IfEmdo",
+          "para_7aoTgIZRvM-E"
+        ],
+        "objectIds": ["u2EfLa"]
+      },
+      {
+        "id": "quality:5",
+        "kind": "paragraph",
+        "source": {
+          "line": 96,
+          "column": 1,
+          "offset": 5336,
+          "endOffset": 5710
+        },
+        "parentId": "quality",
+        "paragraphIds": ["para_ozg7NoDzBZtY"],
+        "objectIds": []
+      },
+      {
+        "id": "quality",
+        "kind": "block",
+        "source": {
+          "line": 73,
+          "column": 1,
+          "offset": 4174,
+          "endOffset": 5715
+        },
+        "paragraphIds": [
+          "para_B_0oj2Xc63Bf",
+          "para_W3tum2-2hrwt",
+          "para_-qXrxQbz6w3G",
+          "para_mOLOifdWdP6_",
+          "para_YRN3tupwilYm",
+          "para_R-kuKml9WJ-t",
+          "para_fJ9StWSfcNkj",
+          "para_OpIvp7xC-Ls-",
+          "para_VzqA02bNMB29",
+          "para_uvPp3PILbwOd",
+          "para_QMSbgSthQKgH",
+          "para_NKZhJVJ4Oqi7",
+          "para__AADJelYW6F4",
+          "para_fXdN81YswCxE",
+          "para_QuXca1RX6yqT",
+          "para_i4fxSq3qbAy8",
+          "para_UIK31fLHMcw8",
+          "para_7M_ixjpfeGt6",
+          "para_M6-SQwmpyy8S",
+          "para_Dkglvbe_dTZI",
+          "para_n2e0zJcxyyAm",
+          "para_ySBarh0sd2f-",
+          "para_adWLY1rSc4dK",
+          "para_FjsM69Fiek4j",
+          "para_oOuuqYJasdd5",
+          "para_Tn24p-IfEmdo",
+          "para_7aoTgIZRvM-E",
+          "para_ozg7NoDzBZtY"
+        ],
+        "objectIds": ["yeiqIW", "u2EfLa"]
+      },
+      {
+        "id": "scenarios:1",
+        "kind": "heading",
+        "source": {
+          "line": 100,
+          "column": 1,
+          "offset": 5743,
+          "endOffset": 5826
+        },
+        "parentId": "scenarios",
+        "paragraphIds": ["para_ajL8pho3AWvd"],
+        "objectIds": []
+      },
+      {
+        "id": "scenarios:2",
+        "kind": "table",
+        "source": {
+          "line": 102,
+          "column": 1,
+          "offset": 5828,
+          "endOffset": 6459
+        },
+        "parentId": "scenarios",
+        "paragraphIds": [
+          "para_exnEDuCoY4gQ",
+          "para_SjuZLEHYK2uu",
+          "para_tOdNZM-NirAy",
+          "para_7nUIUdhJ48Hg",
+          "para_R3UAYqdzKyBW",
+          "para_qAdRTSnluoQK",
+          "para_ofwFSRsUOjqO",
+          "para_3mmY7rCWkMBH",
+          "para_8oZQ7FHzZz_k",
+          "para_l40IqmqmHvVf",
+          "para_yEfQ6PXVHbfv",
+          "para_6zXxg6yc0wTq",
+          "para_-y7IZXmOePt0",
+          "para_jI9S9mkEi-EZ",
+          "para_mDRe9rKivRD1",
+          "para_oND9928nQu1F",
+          "para_jbhESKbBFgRd",
+          "para_rAt8T48TuTvK",
+          "para_iGMhKskyv5Vv",
+          "para_Kj0crgcJfoRn",
+          "para_6Evoe0Ngct8H",
+          "para_SWjM5qB4JAB-",
+          "para__r2hF7IhQVOi",
+          "para_YuQr6QF_Wc-W",
+          "para_X5wENN7e5nmd",
+          "para_Vdbd8wW8J48j",
+          "para_UvSFcqHVTbwM",
+          "para_CI-eZT3bD9x-",
+          "para_1yyWwjgBDDDd",
+          "para_ML5AlKtDII9z",
+          "para_WPXrJknP6fR8",
+          "para_vc67Y5GxhqAU",
+          "para_SZCqUMGqKMcq",
+          "para_NPwg5oU5VSG9",
+          "para_c5SYEDHmaOJA",
+          "para_n4spHAgxnV-i",
+          "para_cfU2f2wGIYv-",
+          "para_0oOKRrzkn7JQ",
+          "para_t6YyNDOZkwuJ",
+          "para_rSZ_rv-yE-7H"
+        ],
+        "objectIds": ["DOYbZp"]
+      },
+      {
+        "id": "scenarios:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 116,
+          "column": 1,
+          "offset": 6461,
+          "endOffset": 6862
+        },
+        "parentId": "scenarios",
+        "paragraphIds": ["para_PqaBBvW2N2Sb"],
+        "objectIds": []
+      },
+      {
+        "id": "scenarios",
+        "kind": "block",
+        "source": {
+          "line": 99,
+          "column": 1,
+          "offset": 5717,
+          "endOffset": 6867
+        },
+        "paragraphIds": [
+          "para_ajL8pho3AWvd",
+          "para_exnEDuCoY4gQ",
+          "para_SjuZLEHYK2uu",
+          "para_tOdNZM-NirAy",
+          "para_7nUIUdhJ48Hg",
+          "para_R3UAYqdzKyBW",
+          "para_qAdRTSnluoQK",
+          "para_ofwFSRsUOjqO",
+          "para_3mmY7rCWkMBH",
+          "para_8oZQ7FHzZz_k",
+          "para_l40IqmqmHvVf",
+          "para_yEfQ6PXVHbfv",
+          "para_6zXxg6yc0wTq",
+          "para_-y7IZXmOePt0",
+          "para_jI9S9mkEi-EZ",
+          "para_mDRe9rKivRD1",
+          "para_oND9928nQu1F",
+          "para_jbhESKbBFgRd",
+          "para_rAt8T48TuTvK",
+          "para_iGMhKskyv5Vv",
+          "para_Kj0crgcJfoRn",
+          "para_6Evoe0Ngct8H",
+          "para_SWjM5qB4JAB-",
+          "para__r2hF7IhQVOi",
+          "para_YuQr6QF_Wc-W",
+          "para_X5wENN7e5nmd",
+          "para_Vdbd8wW8J48j",
+          "para_UvSFcqHVTbwM",
+          "para_CI-eZT3bD9x-",
+          "para_1yyWwjgBDDDd",
+          "para_ML5AlKtDII9z",
+          "para_WPXrJknP6fR8",
+          "para_vc67Y5GxhqAU",
+          "para_SZCqUMGqKMcq",
+          "para_NPwg5oU5VSG9",
+          "para_c5SYEDHmaOJA",
+          "para_n4spHAgxnV-i",
+          "para_cfU2f2wGIYv-",
+          "para_0oOKRrzkn7JQ",
+          "para_t6YyNDOZkwuJ",
+          "para_rSZ_rv-yE-7H",
+          "para_PqaBBvW2N2Sb"
+        ],
+        "objectIds": ["DOYbZp"]
+      },
+      {
+        "id": "conclusion:1",
+        "kind": "heading",
+        "source": {
+          "line": 137,
+          "column": 1,
+          "offset": 8082,
+          "endOffset": 8169
+        },
+        "parentId": "conclusion",
+        "paragraphIds": ["para_UfuZxZVF0EiR"],
+        "objectIds": []
+      },
+      {
+        "id": "conclusion:2",
+        "kind": "paragraph",
+        "source": {
+          "line": 139,
+          "column": 1,
+          "offset": 8171,
+          "endOffset": 8489
+        },
+        "parentId": "conclusion",
+        "paragraphIds": ["para_T604_YPw9GK4"],
+        "objectIds": []
+      },
+      {
+        "id": "conclusion:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 141,
+          "column": 1,
+          "offset": 8491,
+          "endOffset": 9119
+        },
+        "parentId": "conclusion",
+        "paragraphIds": ["para_fRpRWrije_t-"],
+        "objectIds": []
+      },
+      {
+        "id": "conclusion:4",
+        "kind": "paragraph",
+        "source": {
+          "line": 143,
+          "column": 1,
+          "offset": 9121,
+          "endOffset": 9148
+        },
+        "parentId": "conclusion",
+        "paragraphIds": ["para_Ir7NRuiqq50q"],
+        "objectIds": []
+      },
+      {
+        "id": "conclusion:5:1:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 145,
+          "column": 3,
+          "offset": 9152,
+          "endOffset": 9409
+        },
+        "parentId": "conclusion:5:1",
+        "paragraphIds": ["para_wCey8f37Z9hv"],
+        "objectIds": ["md-link-para_jk2y1YCWEQqf-1"]
+      },
+      {
+        "id": "conclusion:5:1",
+        "kind": "listItem",
+        "source": {
+          "line": 145,
+          "column": 1,
+          "offset": 9150,
+          "endOffset": 9409
+        },
+        "parentId": "conclusion:5",
+        "paragraphIds": ["para_wCey8f37Z9hv"],
+        "objectIds": ["md-link-para_jk2y1YCWEQqf-1"]
+      },
+      {
+        "id": "conclusion:5:2:1",
+        "kind": "paragraph",
+        "source": {
+          "line": 146,
+          "column": 3,
+          "offset": 9412,
+          "endOffset": 9583
+        },
+        "parentId": "conclusion:5:2",
+        "paragraphIds": ["para_PL8VQ5w0K8y7"],
+        "objectIds": ["md-link-para_Je0zTh31T9SO-0"]
+      },
+      {
+        "id": "conclusion:5:2",
+        "kind": "listItem",
+        "source": {
+          "line": 146,
+          "column": 1,
+          "offset": 9410,
+          "endOffset": 9583
+        },
+        "parentId": "conclusion:5",
+        "paragraphIds": ["para_PL8VQ5w0K8y7"],
+        "objectIds": ["md-link-para_Je0zTh31T9SO-0"]
+      },
+      {
+        "id": "conclusion:5",
+        "kind": "list",
+        "source": {
+          "line": 145,
+          "column": 1,
+          "offset": 9150,
+          "endOffset": 9583
+        },
+        "parentId": "conclusion",
+        "paragraphIds": ["para_wCey8f37Z9hv", "para_PL8VQ5w0K8y7"],
+        "objectIds": ["md-link-para_Je0zTh31T9SO-0", "md-link-para_jk2y1YCWEQqf-1"]
+      },
+      {
+        "id": "conclusion",
+        "kind": "block",
+        "source": {
+          "line": 136,
+          "column": 1,
+          "offset": 8056,
+          "endOffset": 9587
+        },
+        "paragraphIds": [
+          "para_UfuZxZVF0EiR",
+          "para_T604_YPw9GK4",
+          "para_fRpRWrije_t-",
+          "para_Ir7NRuiqq50q",
+          "para_wCey8f37Z9hv",
+          "para_PL8VQ5w0K8y7"
+        ],
+        "objectIds": ["md-link-para_Je0zTh31T9SO-0", "md-link-para_jk2y1YCWEQqf-1"]
+      },
+      {
+        "id": "risks:1",
+        "kind": "heading",
+        "source": {
+          "line": 2,
+          "column": 1,
+          "offset": 22,
+          "endOffset": 92
+        },
+        "parentId": "risks",
+        "paragraphIds": ["para_DiENLrt2HNdR"],
+        "objectIds": []
+      },
+      {
+        "id": "risks:2",
+        "kind": "table",
+        "source": {
+          "line": 4,
+          "column": 1,
+          "offset": 94,
+          "endOffset": 1046
+        },
+        "parentId": "risks",
+        "paragraphIds": [
+          "para_vN0n_A1xO7ln",
+          "para_fqUzymZMHZus",
+          "para_QBAeBdZnMiKu",
+          "para_LeXWRnQ42CMU",
+          "para_H94z87qVrLKQ",
+          "para_hNA-oEHIkYIa",
+          "para_DY7vMc_WpXO0",
+          "para_U07CKiHmBlZu",
+          "para_t_T_5-PyeFbg",
+          "para_qlwh8awBf7gW",
+          "para_xV8Fwc7ORRt8",
+          "para_xAWvQhXALKdd",
+          "para_sv640rykv6ea",
+          "para_xdNtVO8f49V-"
+        ],
+        "objectIds": ["P02lmK"]
+      },
+      {
+        "id": "risks:3",
+        "kind": "paragraph",
+        "source": {
+          "line": 15,
+          "column": 1,
+          "offset": 1048,
+          "endOffset": 1191
+        },
+        "parentId": "risks",
+        "paragraphIds": ["para_AfH6jhrHB9f3"],
+        "objectIds": []
+      },
+      {
+        "id": "risks",
+        "kind": "block",
+        "source": {
+          "line": 1,
+          "column": 1,
+          "offset": 0,
+          "endOffset": 1196
+        },
+        "paragraphIds": [
+          "para_DiENLrt2HNdR",
+          "para_vN0n_A1xO7ln",
+          "para_fqUzymZMHZus",
+          "para_QBAeBdZnMiKu",
+          "para_LeXWRnQ42CMU",
+          "para_H94z87qVrLKQ",
+          "para_hNA-oEHIkYIa",
+          "para_DY7vMc_WpXO0",
+          "para_U07CKiHmBlZu",
+          "para_t_T_5-PyeFbg",
+          "para_qlwh8awBf7gW",
+          "para_xV8Fwc7ORRt8",
+          "para_xAWvQhXALKdd",
+          "para_sv640rykv6ea",
+          "para_xdNtVO8f49V-",
+          "para_AfH6jhrHB9f3"
+        ],
+        "objectIds": ["P02lmK"]
+      }
+    ],
+    "assets": {}
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+dist
+.data
+output
+pnpm-lock.yaml
