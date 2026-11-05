@@ -72,14 +72,16 @@ test('applies a backend worksheet replacement and keeps recovery notices above C
     await office.restore(file, actor, 1, await office.revision(file, actor));
     const refresh = page.getByRole('button', { name: 'Refresh page', exact: true });
     await expect(refresh).toBeVisible();
-    expect(
-      await refresh.evaluate((button) => {
-        const rect = button.getBoundingClientRect();
-        return button.contains(
-          document.elementFromPoint(rect.x + rect.width / 2, rect.y + rect.height / 2),
-        );
-      }),
-    ).toBe(true);
+    await expect
+      .poll(() =>
+        refresh.evaluate((button) => {
+          const rect = button.getBoundingClientRect();
+          return button.contains(
+            document.elementFromPoint(rect.x + rect.width / 2, rect.y + rect.height / 2),
+          );
+        }),
+      )
+      .toBe(true);
     await refresh.click();
     await expect(page.locator('.save-state')).toHaveText('Saved');
     await expect(page.getByRole('tab', { name: 'Sheet1', exact: true })).toBeVisible();

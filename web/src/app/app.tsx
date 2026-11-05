@@ -97,6 +97,7 @@ export function App() {
     [rightClosed, setRightClosed] = useState(() => window.matchMedia('(max-width: 760px)').matches),
     [historyOpening, setHistoryOpening] = useState(false);
   const [editorEpoch, setEditorEpoch] = useState(0);
+  const [readyFileId, setReadyFileId] = useState<string | null>(null);
   const editor = useRef<EditorHandle | null>(null),
     currentFile = useRef(file);
   currentFile.current = file;
@@ -334,6 +335,7 @@ export function App() {
               shared={sharedFile}
               onReady={(value) => {
                 editor.current = value;
+                setReadyFileId(value ? file.id : null);
               }}
               onStatus={setStatus}
               onMembers={setMembers}
@@ -356,6 +358,7 @@ export function App() {
             <Copilot
               key={file.id}
               file={file}
+              editorReady={readyFileId === file.id && status !== 'loading'}
               availableFiles={files}
               onFilesImported={async () => {
                 await refresh();

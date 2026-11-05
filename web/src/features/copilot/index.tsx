@@ -34,6 +34,7 @@ import type { EditorHandle } from '../editor/index.ts';
 
 export function Copilot({
   file,
+  editorReady,
   availableFiles,
   onFilesImported,
   profiles,
@@ -51,6 +52,7 @@ export function Copilot({
   onError,
 }: {
   file: OfficeFile;
+  editorReady: boolean;
   availableFiles: OfficeFile[];
   onFilesImported(): Promise<void>;
   profiles: ModelProfile[];
@@ -94,8 +96,8 @@ export function Copilot({
   const busyConversationId = sendingId ?? activeConversationId;
   const runningElsewhere = !!busyConversationId && busyConversationId !== conversation?.id;
   const attachments = useAttachments(conversation?.id, onFilesImported, onError);
-  const attachmentDisabled =
-    !conversation || state.running || sending || fileHistoryOpen || runningElsewhere;
+  const composerDisabled = !editorReady || !conversation || fileHistoryOpen || runningElsewhere;
+  const attachmentDisabled = composerDisabled || state.running || sending;
   const drop = useAttachmentDrop(attachmentDisabled, attachments.addFiles);
   const imageModelRequired =
     attachments.selected.some((value) => value.kind === 'image') &&
@@ -466,7 +468,7 @@ export function Copilot({
             <ChatWelcome
               type={file.type}
               canEdit={file.role !== 'viewer'}
-              disabled={!conversation || fileHistoryOpen || runningElsewhere}
+              disabled={composerDisabled}
               setupLabel={
                 !keys[profileId] && !serverKeyAvailable
                   ? profiles.length
@@ -491,7 +493,7 @@ export function Copilot({
         }}
         onHistory={(runId) => void showChanges(runId)}
         onPreviewAttachment={setPreviewAttachment}
-        disabled={!conversation || fileHistoryOpen || runningElsewhere}
+        disabled={composerDisabled}
         sendDisabled={attachments.pending || attachments.failed || imageModelRequired}
         composerAttachments={
           <>
@@ -533,9 +535,7 @@ export function Copilot({
                       ? 'Ask questions without changing the file'
                       : 'Edit the file directly'
                   }
-                  disabled={
-                    !conversation || state.running || sending || fileHistoryOpen || runningElsewhere
-                  }
+                  disabled={attachmentDisabled}
                 >
                   {mode === 'edit' ? 'Edit' : 'Ask'}
                   <ChevronDown size={12} aria-hidden="true" />
@@ -596,7 +596,7 @@ export function Copilot({
                   size="icon"
                   aria-label="Use selection"
                   tooltip="Use selected cells as context"
-                  disabled={state.running || sending || fileHistoryOpen}
+                  disabled={attachmentDisabled}
                   onClick={() => {
                     const selected = selection();
                     if (selected) setFixedSelection(selected);
