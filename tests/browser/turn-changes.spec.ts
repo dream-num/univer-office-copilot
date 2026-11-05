@@ -5,9 +5,15 @@ import type { VersionSnapshot } from '../../web/src/features/editor/index.ts';
 async function ready(page: Page) {
   await expect(page.getByRole('status', { name: 'Synced', exact: true })).toBeVisible();
   await expect(page.getByLabel('Message Copilot', { exact: true })).toBeEnabled();
+  await expect(page.locator('[data-u-comp="workbench-skeleton-content"]')).toHaveCount(0);
 }
 
 async function editCell(page: Page, value: string) {
+  await page.waitForFunction(() =>
+    [...document.querySelectorAll('.editor-pane canvas')].some(
+      (canvas) => canvas.getBoundingClientRect().height > 300,
+    ),
+  );
   const boxes = await page.locator('.editor-pane canvas').evaluateAll((elements) =>
     elements.map((element) => {
       const box = element.getBoundingClientRect();
@@ -19,6 +25,38 @@ async function editCell(page: Page, value: string) {
   await page.keyboard.type(value);
   await page.keyboard.press('Enter');
 }
+
+test('waits for the Office editor before accepting a Copilot draft', async ({ page }) => {
+  let release!: () => void;
+  const gate = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  await page.route('**/universer-api/snapshot/**', async (route) => {
+    await gate;
+    await route.continue();
+  });
+  try {
+    await page.goto('/');
+    await expect(
+      page.getByRole('button', { name: 'Share conversation', exact: true }),
+    ).toBeEnabled();
+    await expect(page.getByLabel('Message Copilot', { exact: true })).toBeDisabled({
+      timeout: 1500,
+    });
+    await expect(page.getByRole('button', { name: 'Attach files', exact: true })).toBeDisabled();
+  } finally {
+    release();
+  }
+  await ready(page);
+  await expect(page.locator('[data-u-comp="workbench-skeleton-content"]')).toHaveCount(0);
+  const input = page.getByLabel('Message Copilot', { exact: true });
+  await input.fill('Keep this in chat');
+  await expect(input).toHaveValue('Keep this in chat');
+  const fileId = new URL(page.url()).searchParams.get('file')!;
+  const { versions } = await (await page.request.get(`/api/files/${fileId}/versions`)).json();
+  expect(versions).toHaveLength(1);
+  await expect(input).toBeFocused();
+});
 
 async function openRecordedTurn(page: Page, fileId: string, revision: number) {
   const { conversations } = await (

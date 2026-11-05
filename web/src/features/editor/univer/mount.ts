@@ -130,6 +130,11 @@ export async function mountEditor(
       ),
     );
     await api.loadServerUnit(file.unitId, unitTypes[file.type]);
+    // Sync can finish before the workbench mounts its canvas and takes initial focus.
+    await univer.__getInjector().get(LifecycleService).onStage(LifecycleStages.Rendered);
+    await new Promise<void>((resolve) =>
+      requestAnimationFrame(() => requestAnimationFrame(() => resolve())),
+    );
     signal.throwIfAborted();
     onStatus(collab.getCollaborationStatus(file.unitId));
     return {
