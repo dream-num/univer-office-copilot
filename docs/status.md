@@ -8,7 +8,7 @@ The [AI authoring adapter](ai-authoring.md) adds automatically loaded core/produ
 
 ## Default cases
 
-The local process entry seeds [seven editable native examples](../README.md#included-examples) for each new demo account: Sales and six Anthropic IPO files across all five products and both document flavors. The Base case includes three dashboards and fifteen live charts. These are private copies with fresh file/Unit identities and revision one; existing accounts and edits are never reset. Conversation history, previous versions, attachments, sharing grants, model profiles and credentials are not part of the bundled snapshots. `DEMO_EXAMPLES=false` restores empty-workspace onboarding. Regular registration and login do not seed cases.
+The local process entry seeds [six editable native examples](../README.md#included-examples) for each new demo account: six Anthropic IPO files across all five products and both document flavors. The Base case includes three dashboards and fifteen live charts. These are private copies with fresh file/Unit identities and revision one; existing accounts and edits are never reset. Conversation history, previous versions, attachments, sharing grants, model profiles and credentials are not part of the bundled snapshots. `DEMO_EXAMPLES=false` restores empty-workspace onboarding. Regular registration and login do not seed cases.
 
 ## Automated verification
 

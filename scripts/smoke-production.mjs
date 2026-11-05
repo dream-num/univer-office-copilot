@@ -21,7 +21,7 @@ try {
   ).json();
   const { files, office } = application.services;
   const examples = files.list(user.id);
-  assert.equal(examples.length, 7);
+  assert.equal(examples.length, 6);
   assert.equal(new Set(examples.map((file) => file.type)).size, 5);
   for (const table of ['profiles', 'conversations', 'messages', 'runs'])
     assert.equal(application.db.prepare(`SELECT COUNT(*) AS n FROM ${table}`).get().n, 0);
@@ -185,7 +185,7 @@ try {
     AbortSignal.timeout(30000),
   );
   console.info(
-    'Production smoke passed: seven clean default examples, compiled PDF/image parser, isolated backend scripts, native assertions, compiled persistence, bundled skills, current-native Markdown updates, native Typst, actual PNGs and measured SVG.',
+    'Production smoke passed: six clean default examples, compiled PDF/image parser, isolated backend scripts, native assertions, compiled persistence, bundled skills, current-native Markdown updates, native Typst, actual PNGs and measured SVG.',
   );
 } finally {
   await application?.close();

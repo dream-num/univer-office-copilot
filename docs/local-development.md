@@ -13,7 +13,7 @@ pnpm install --frozen-lockfile
 pnpm dev
 ```
 
-Open **http://127.0.0.1:5173**. The local demo creates a private account with **seven editable example files** and opens the financial spreadsheet. Use **New** to create a Modern document, Paged document, presentation, relational table, or canvas. No Docker, cloud database, or AI account is required to open and edit files.
+Open **http://127.0.0.1:5173**. The local demo creates a private account with **six editable example files** and opens the financial spreadsheet. Use **New** to create a Modern document, Paged document, presentation, relational table, or canvas. No Docker, cloud database, or AI account is required to open and edit files.
 
 In the chat composer, open the model menu and choose **Add model** or **Manage models**, then select a provider, enter a model ID and your API key, and save the configuration. Empty conversations also offer a setup shortcut and two examples for the current product; selecting an example fills the input without sending it. Start in **Ask** to read a file or switch to **Edit** to modify it directly. Keys entered in chat stay in page memory and are sent only with the current request. Reloading the page clears those keys. Non-secret model profiles are saved on the server.
 
@@ -29,7 +29,6 @@ No AI key is needed to open, explore or manually edit the examples. A new local 
 
 | Example                                   | Product          | What to explore                                                        |
 | ----------------------------------------- | ---------------- | ---------------------------------------------------------------------- |
-| Sales                                     | Spreadsheet      | Sales budget, formulas and a native chart                              |
 | Anthropic IPO · Financial Model           | Spreadsheet      | Financial statements, IPO scenarios, sensitivity and validation checks |
 | Anthropic IPO · Financial Analysis        | Modern document  | Native Markdown content, tables and source references                  |
 | Anthropic IPO · Investment Committee Memo | Paged document   | Physical pages, native tables and Typst-authored layout                |

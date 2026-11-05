@@ -30,10 +30,10 @@ describe('portable default examples', () => {
     const cookie = response.headers.get('set-cookie')!.split(';')[0]!;
     return { user, cookie };
   }
-  it('installs all seven current native cases at revision one without conversations or model settings', async () => {
+  it('installs all six current native cases at revision one without conversations or model settings', async () => {
     const { user, cookie } = await openDemo();
     const files = app.services.files.list(user.id);
-    expect(files).toHaveLength(7);
+    expect(files).toHaveLength(6);
     expect(new Set(files.map((f) => f.type))).toEqual(
       new Set(['sheet', 'doc', 'slide', 'base', 'board']),
     );
@@ -43,7 +43,7 @@ describe('portable default examples', () => {
         .map((f) => f.documentFlavor)
         .sort(),
     ).toEqual(['modern', 'traditional']);
-    expect(files.find((f) => f.name === 'Sales')?.emoji).toBe('🚀');
+    expect(files.some((f) => f.name === 'Sales')).toBe(false);
     for (const entry of demoExamples) {
       const source = JSON.parse(await readFile(resolve('examples', entry.filename), 'utf8'));
       expect(Object.keys(source).sort()).toEqual(
@@ -114,7 +114,7 @@ describe('portable default examples', () => {
           files: OfficeFile[];
         }
       ).files,
-    ).toHaveLength(7);
+    ).toHaveLength(6);
     await app.services.files.remove(files[0]!.id, user.id);
     expect(
       (
@@ -122,14 +122,14 @@ describe('portable default examples', () => {
           files: OfficeFile[];
         }
       ).files,
-    ).toHaveLength(6);
+    ).toHaveLength(5);
   });
   it('creates private copies for another demo account and never seeds normal registrations', async () => {
     const first = app.db.prepare('SELECT id FROM users ORDER BY rowid LIMIT 1').get() as {
       id: string;
     };
     const { user } = await openDemo();
-    expect(app.services.files.list(user.id)).toHaveLength(7);
+    expect(app.services.files.list(user.id)).toHaveLength(6);
     const foreign = app.services.files.list(first.id)[0]!;
     expect(() => app.services.files.get(foreign.id, user.id)).toThrow('permission');
     expect(new Set(app.services.files.list(user.id).map((f) => f.unitId)).has(foreign.unitId)).toBe(
@@ -150,7 +150,9 @@ describe('portable default examples', () => {
   });
   it('rejects nested plugin payloads without leaving startup recovery blocked', async () => {
     const { user } = await openDemo();
-    const source = JSON.parse(await readFile(resolve('examples', 'sales.univer.json'), 'utf8'));
+    const source = JSON.parse(
+      await readFile(resolve('examples', 'financial-model.univer.json'), 'utf8'),
+    );
     source.data.resources.push({
       name: 'NESTED',
       data: '['.repeat(2000) + 'null' + ']'.repeat(2000),
@@ -162,7 +164,7 @@ describe('portable default examples', () => {
         'bad.univer.json',
       ),
     ).rejects.toMatchObject({ status: 422 });
-    expect(app.services.files.list(user.id)).toHaveLength(7);
+    expect(app.services.files.list(user.id)).toHaveLength(6);
     expect(
       app.db
         .prepare("SELECT COUNT(*) AS n FROM operations WHERE owner_id=? AND status='prepared'")
